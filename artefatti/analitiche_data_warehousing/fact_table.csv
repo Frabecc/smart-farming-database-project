@@ -1,0 +1,1104 @@
+ID_Vendita,Nome_Produttore,Cognome_Produttore,Tipo_Prodotto,Nome_Prodotto,Quantita,unita_misura,Prezzo_Totale,Data_Ora,Nome_cliente,Cognome_cliente,Genere,Data_Nascita
+52,Tara,Morey,"Derivato Animale",Mozzarella,4.59,Kg,94.23,"2024-05-19 09:32:39",Marian,Niemetz,NULL,1981-07-21
+198,Tara,Morey,"Derivato Animale",Mozzarella,0.37,Kg,7.60,"2023-12-08 16:52:27",Lynn,Ryton,"Preferisco non specificare",1960-04-16
+452,Tara,Morey,"Derivato Animale",Mozzarella,4.59,Kg,94.23,"2024-05-19 11:32:39",Marian,Niemetz,NULL,1981-07-21
+598,Tara,Morey,"Derivato Animale",Mozzarella,0.37,Kg,7.60,"2023-12-08 17:52:27",Lynn,Ryton,"Preferisco non specificare",1960-04-16
+752,Tara,Morey,"Derivato Animale",Mozzarella,4.59,Kg,94.23,"2024-05-19 11:32:39",Marian,Niemetz,NULL,1981-07-21
+898,Tara,Morey,"Derivato Animale",Mozzarella,0.37,Kg,7.60,"2023-12-08 18:52:27",Lynn,Ryton,"Preferisco non specificare",1960-04-16
+1039,Tara,Morey,"Derivato Animale",Mozzarella,6.85,Kg,42.67,"2025-11-17 12:29:05",Wendy,Givens,"Preferisco non specificare",NULL
+110,Tara,Morey,"Derivato Animale","Formaggio al pepe",2.55,Kg,63.75,"2024-11-08 15:16:56",Damiano,Sharratt,NULL,NULL
+510,Tara,Morey,"Derivato Animale","Formaggio al pepe",2.55,Kg,63.75,"2024-11-08 14:16:56",Damiano,Sharratt,NULL,NULL
+810,Tara,Morey,"Derivato Animale","Formaggio al pepe",2.55,Kg,63.75,"2024-11-08 11:16:56",Damiano,Sharratt,NULL,NULL
+128,Tara,Morey,"Derivato Animale","Carne lavorata",3.13,Kg,21.13,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+336,Tara,Morey,"Derivato Animale","Carne lavorata",3.80,Kg,25.65,"2023-07-18 16:45:20",Chalmers,Tooze,M,1997-09-27
+392,Tara,Morey,"Derivato Animale","Carne lavorata",3.85,Kg,25.99,"2025-02-26 17:08:13",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+528,Tara,Morey,"Derivato Animale","Carne lavorata",3.13,Kg,21.13,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+828,Tara,Morey,"Derivato Animale","Carne lavorata",3.13,Kg,21.13,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+1192,Tara,Morey,"Derivato Animale","Carne lavorata",185.85,Kg,889.39,"2025-05-04 16:20:03",Ned,Spry,"Preferisco non specificare",1975-08-29
+319,Tara,Morey,"Derivato Animale",Salsiccia,1.00,Kg,11.32,"2024-08-15 10:46:24",Fee,Tabary,F,NULL
+340,Tara,Morey,"Derivato Animale",Hamburger,2.00,Pezzi,21.42,"2024-11-09 11:50:11",Damiano,Sharratt,NULL,NULL
+1187,Tara,Morey,"Derivato Animale",Hamburger,6.00,Pezzi,110.86,"2025-09-07 11:18:37",Izak,Targe,"Preferisco non specificare",1981-11-03
+103,Tara,Morey,"Derivato Animale","Siero di latte",2.49,L,46.16,"2023-12-25 13:50:55",Thedrick,Cubbon,"Preferisco non specificare",1961-08-24
+263,Tara,Morey,"Derivato Animale","Siero di latte",2.95,L,54.69,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+503,Tara,Morey,"Derivato Animale","Siero di latte",2.49,L,46.16,"2023-12-25 13:50:55",Thedrick,Cubbon,"Preferisco non specificare",1961-08-24
+663,Tara,Morey,"Derivato Animale","Siero di latte",2.95,L,54.69,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+803,Tara,Morey,"Derivato Animale","Siero di latte",2.49,L,46.16,"2023-12-25 13:50:55",Thedrick,Cubbon,"Preferisco non specificare",1961-08-24
+963,Tara,Morey,"Derivato Animale","Siero di latte",2.95,L,54.69,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+348,Tara,Morey,"Derivato Animale","Gelato al latte",1.43,L,25.74,"2025-08-18 11:58:15",Maximo,Gannaway,M,NULL
+1071,Tara,Morey,"Derivato Animale","Gelato al latte",3.49,L,66.66,"2024-06-23 19:46:07",Lyon,Arrault,M,NULL
+13,Tara,Morey,Agricolo,"Pasta ripiena vegetale",1.91,Kg,22.92,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+413,Tara,Morey,Agricolo,"Pasta ripiena vegetale",1.91,Kg,22.92,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+713,Tara,Morey,Agricolo,"Pasta ripiena vegetale",1.91,Kg,22.92,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+1181,Tara,Morey,Agricolo,"Pasta ripiena vegetale",9.74,Kg,38.65,"2024-01-20 15:19:43",Dorita,Nowak,Altro,1993-06-28
+239,Tara,Morey,Agricolo,"Vino rosato",4.00,L,61.76,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+256,Tara,Morey,Agricolo,"Vino rosato",4.50,L,69.48,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+639,Tara,Morey,Agricolo,"Vino rosato",4.00,L,61.76,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+656,Tara,Morey,Agricolo,"Vino rosato",4.50,L,69.48,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+939,Tara,Morey,Agricolo,"Vino rosato",4.00,L,61.76,"2025-07-13 11:03:13",Starla,Sommerland,F,1957-03-07
+956,Tara,Morey,Agricolo,"Vino rosato",4.50,L,69.48,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+12,Tara,Morey,Agricolo,"Vino con spezie",4.97,L,74.55,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+390,Tara,Morey,Agricolo,"Vino con spezie",1.81,L,27.15,"2024-12-01 08:15:46",Eryn,Sherrocks,F,1961-05-19
+412,Tara,Morey,Agricolo,"Vino con spezie",4.97,L,74.55,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+712,Tara,Morey,Agricolo,"Vino con spezie",4.97,L,74.55,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+91,Tara,Morey,Agricolo,"Salsa piccante",2.00,L,59.46,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+491,Tara,Morey,Agricolo,"Salsa piccante",2.00,L,59.46,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+791,Tara,Morey,Agricolo,"Salsa piccante",2.00,L,59.46,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+59,Tara,Morey,Agricolo,Mele,2.00,Pezzi,40.18,"2025-05-17 09:17:27",Shandie,Llewellyn,Altro,1990-11-26
+68,Tara,Morey,Agricolo,Mele,9.00,Pezzi,180.81,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+86,Tara,Morey,Agricolo,Mele,10.00,Pezzi,200.90,"2023-02-13 16:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+189,Tara,Morey,Agricolo,Mele,10.00,Pezzi,200.90,"2025-09-22 17:40:21",Claiborn,Raymen,M,1988-10-19
+272,Tara,Morey,Agricolo,Mele,1.00,Pezzi,20.09,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+459,Tara,Morey,Agricolo,Mele,2.00,Pezzi,40.18,"2025-05-17 09:17:27",Shandie,Llewellyn,Altro,1990-11-26
+468,Tara,Morey,Agricolo,Mele,9.00,Pezzi,180.81,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+486,Tara,Morey,Agricolo,Mele,10.00,Pezzi,200.90,"2023-02-13 13:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+589,Tara,Morey,Agricolo,Mele,10.00,Pezzi,200.90,"2025-09-22 17:40:21",Claiborn,Raymen,M,1988-10-19
+672,Tara,Morey,Agricolo,Mele,1.00,Pezzi,20.09,"2024-07-21 17:11:30",Antone,Ingman,Altro,1949-08-22
+759,Tara,Morey,Agricolo,Mele,2.00,Pezzi,40.18,"2025-05-17 16:17:27",Shandie,Llewellyn,Altro,1990-11-26
+768,Tara,Morey,Agricolo,Mele,9.00,Pezzi,180.81,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+786,Tara,Morey,Agricolo,Mele,10.00,Pezzi,200.90,"2023-02-13 11:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+889,Tara,Morey,Agricolo,Mele,10.00,Pezzi,200.90,"2025-09-22 17:40:21",Claiborn,Raymen,M,1988-10-19
+972,Tara,Morey,Agricolo,Mele,1.00,Pezzi,20.09,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+1005,Rhody,Joutapavicius,"Derivato Animale","Latte pastorizzato",0.66,L,16.55,"2025-07-03 14:54:58",Juliann,Pellett,F,1970-12-06
+78,Rhody,Joutapavicius,Agricolo,"Burro chiarificato",2.31,Kg,15.96,"2025-12-22 09:00:47",Elena,Aubry,F,1944-07-27
+181,Rhody,Joutapavicius,Agricolo,"Burro chiarificato",1.88,Kg,12.99,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+478,Rhody,Joutapavicius,Agricolo,"Burro chiarificato",2.31,Kg,15.96,"2025-12-22 15:00:47",Elena,Aubry,F,1944-07-27
+581,Rhody,Joutapavicius,Agricolo,"Burro chiarificato",1.88,Kg,12.99,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+778,Rhody,Joutapavicius,Agricolo,"Burro chiarificato",2.31,Kg,15.96,"2025-12-22 15:00:47",Elena,Aubry,F,1944-07-27
+881,Rhody,Joutapavicius,Agricolo,"Burro chiarificato",1.88,Kg,12.99,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+1135,Rhody,Joutapavicius,Agricolo,"Burro chiarificato",5.04,Kg,8.34,"2026-02-04 15:49:19",Vicki,Adlam,F,1969-10-22
+1070,Rhody,Joutapavicius,"Derivato Animale","Formaggio spalmabile",0.83,Kg,7.09,"2026-04-03 14:20:16",Gabriel,Draycott,M,1973-08-20
+220,Rhody,Joutapavicius,"Derivato Animale","Uova fresche",4.00,Pezzi,17.00,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+242,Rhody,Joutapavicius,"Derivato Animale","Uova fresche",3.00,Pezzi,12.75,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+620,Rhody,Joutapavicius,"Derivato Animale","Uova fresche",4.00,Pezzi,17.00,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+642,Rhody,Joutapavicius,"Derivato Animale","Uova fresche",3.00,Pezzi,12.75,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+920,Rhody,Joutapavicius,"Derivato Animale","Uova fresche",4.00,Pezzi,17.00,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+942,Rhody,Joutapavicius,"Derivato Animale","Uova fresche",3.00,Pezzi,12.75,"2025-07-13 11:03:13",Starla,Sommerland,F,1957-03-07
+1065,Rhody,Joutapavicius,"Derivato Animale","Uova fresche",9.00,Pezzi,128.85,"2023-02-21 08:06:37",Harlene,Cartlidge,F,1941-03-25
+226,Rhody,Joutapavicius,"Derivato Animale",Salsiccia,3.00,Kg,33.96,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+247,Rhody,Joutapavicius,"Derivato Animale",Salsiccia,1.96,Kg,22.19,"2026-04-27 11:35:49",Kenna,Rioch,F,1950-07-10
+626,Rhody,Joutapavicius,"Derivato Animale",Salsiccia,3.00,Kg,33.96,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+647,Rhody,Joutapavicius,"Derivato Animale",Salsiccia,1.96,Kg,22.19,"2026-04-27 11:35:49",Kenna,Rioch,F,1950-07-10
+926,Rhody,Joutapavicius,"Derivato Animale",Salsiccia,3.00,Kg,33.96,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+947,Rhody,Joutapavicius,"Derivato Animale",Salsiccia,1.96,Kg,22.19,"2026-04-27 11:35:49",Kenna,Rioch,F,1950-07-10
+1148,Rhody,Joutapavicius,"Derivato Animale","Dessert latte e cereali",7.00,Pezzi,67.68,"2023-05-15 14:26:12",Upton,Beggi,M,1944-08-16
+1157,Rhody,Joutapavicius,"Derivato Animale","Dessert latte e cereali",2.00,Pezzi,8.86,"2023-04-07 12:56:05",Buddie,Redwood,"Preferisco non specificare",NULL
+36,Rhody,Joutapavicius,Agricolo,Grano,1.91,Kg,15.66,"2024-01-06 15:03:07",Paco,Keighly,NULL,1942-02-05
+271,Rhody,Joutapavicius,Agricolo,Grano,1.99,Kg,16.32,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+339,Rhody,Joutapavicius,Agricolo,Grano,2.00,Kg,16.40,"2023-07-18 16:45:20",Chalmers,Tooze,M,1997-09-27
+366,Rhody,Joutapavicius,Agricolo,Grano,1.36,Kg,11.15,"2023-02-17 09:42:10",Karil,Yushankin,F,NULL
+436,Rhody,Joutapavicius,Agricolo,Grano,1.91,Kg,15.66,"2024-01-06 15:03:07",Paco,Keighly,NULL,1942-02-05
+671,Rhody,Joutapavicius,Agricolo,Grano,1.99,Kg,16.32,"2024-07-21 17:11:30",Antone,Ingman,Altro,1949-08-22
+736,Rhody,Joutapavicius,Agricolo,Grano,1.91,Kg,15.66,"2024-01-06 15:03:07",Paco,Keighly,NULL,1942-02-05
+971,Rhody,Joutapavicius,Agricolo,Grano,1.99,Kg,16.32,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+393,Rhody,Joutapavicius,Agricolo,Pane,2.00,Pezzi,45.44,"2025-02-26 17:08:13",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+157,Rhody,Joutapavicius,Agricolo,Biscotti,2.00,Pezzi,7.70,"2024-09-15 12:10:39",Gav,Fuxman,M,1991-10-21
+557,Rhody,Joutapavicius,Agricolo,Biscotti,2.00,Pezzi,7.70,"2024-09-15 12:10:39",Gav,Fuxman,M,1991-10-21
+857,Rhody,Joutapavicius,Agricolo,Biscotti,2.00,Pezzi,7.70,"2024-09-15 12:10:39",Gav,Fuxman,M,1991-10-21
+1017,Rhody,Joutapavicius,Agricolo,"Dolci da forno",7.00,Pezzi,51.07,"2023-03-02 15:47:06",Liesa,Lamming,F,1992-09-13
+162,Rhody,Joutapavicius,Agricolo,"Olio extravergine",3.00,L,40.05,"2023-04-06 18:57:31",Delia,Hirjak,Altro,1995-09-21
+562,Rhody,Joutapavicius,Agricolo,"Olio extravergine",3.00,L,40.05,"2023-04-06 19:57:31",Delia,Hirjak,Altro,1995-09-21
+862,Rhody,Joutapavicius,Agricolo,"Olio extravergine",3.00,L,40.05,"2023-04-06 11:57:31",Delia,Hirjak,Altro,1995-09-21
+114,Rhody,Joutapavicius,Agricolo,"Confettura con spezie",2.28,Kg,18.24,"2026-02-19 13:13:20",Marian,Niemetz,NULL,1981-07-21
+306,Rhody,Joutapavicius,Agricolo,"Confettura con spezie",2.54,Kg,20.32,"2024-07-14 15:08:07",Elena,Aubry,F,1944-07-27
+514,Rhody,Joutapavicius,Agricolo,"Confettura con spezie",2.28,Kg,18.24,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+814,Rhody,Joutapavicius,Agricolo,"Confettura con spezie",2.28,Kg,18.24,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+158,Rhody,Joutapavicius,"Derivato Animale","Verdure grigliate",2.67,Kg,27.79,"2025-09-14 09:32:37",Andriette,Cardero,NULL,1964-08-10
+558,Rhody,Joutapavicius,"Derivato Animale","Verdure grigliate",2.67,Kg,27.79,"2025-09-14 09:32:37",Andriette,Cardero,NULL,1964-08-10
+858,Rhody,Joutapavicius,"Derivato Animale","Verdure grigliate",2.67,Kg,27.79,"2025-09-14 09:32:37",Andriette,Cardero,NULL,1964-08-10
+66,Rhody,Joutapavicius,Agricolo,Mele,4.00,Pezzi,80.36,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+466,Rhody,Joutapavicius,Agricolo,Mele,4.00,Pezzi,80.36,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+766,Rhody,Joutapavicius,Agricolo,Mele,4.00,Pezzi,80.36,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+1167,Rhody,Joutapavicius,Agricolo,Mele,1.00,Pezzi,8.03,"2023-11-10 11:17:03",Kissee,Meineck,Altro,1942-11-03
+262,Rhody,Joutapavicius,Agricolo,Fragole,5.00,Pezzi,71.55,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+662,Rhody,Joutapavicius,Agricolo,Fragole,5.00,Pezzi,71.55,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+962,Rhody,Joutapavicius,Agricolo,Fragole,5.00,Pezzi,71.55,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+1118,Rhody,Joutapavicius,Agricolo,Fragole,50.07,Kg,270.67,"2025-08-13 13:23:33",Wittie,Harring,"Preferisco non specificare",1978-02-23
+343,Rhody,Joutapavicius,Agricolo,Mandorle,1.00,Pezzi,10.97,"2024-08-10 11:15:31",Kenna,Rioch,F,1950-07-10
+1102,Rhody,Joutapavicius,Agricolo,Mandorle,3.73,Kg,28.77,"2024-11-27 17:18:32",Theressa,Demare,M,1997-06-30
+216,Lesya,Stuckley,"Derivato Animale","Ricotta fresca",2.24,Kg,22.42,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+276,Lesya,Stuckley,"Derivato Animale","Ricotta fresca",4.99,Kg,49.95,"2024-07-21 16:16:06",Graehme,Benjamin,M,1973-02-16
+616,Lesya,Stuckley,"Derivato Animale","Ricotta fresca",2.24,Kg,22.42,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+676,Lesya,Stuckley,"Derivato Animale","Ricotta fresca",4.99,Kg,49.95,"2024-07-21 16:16:06",Graehme,Benjamin,M,1973-02-16
+916,Lesya,Stuckley,"Derivato Animale","Ricotta fresca",2.24,Kg,22.42,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+976,Lesya,Stuckley,"Derivato Animale","Ricotta fresca",4.99,Kg,49.95,"2024-07-21 19:16:06",Graehme,Benjamin,M,1973-02-16
+374,Lesya,Stuckley,"Derivato Animale","Formaggio al tartufo",1.75,Kg,61.25,"2024-09-12 13:11:56",Celestine,Capron,Altro,1987-12-31
+143,Lesya,Stuckley,"Derivato Animale",Provolone,3.03,Kg,78.39,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+400,Lesya,Stuckley,"Derivato Animale",Provolone,4.00,Kg,103.48,"2025-02-04 15:10:19",Wesley,Jouaneton,NULL,1976-10-16
+543,Lesya,Stuckley,"Derivato Animale",Provolone,3.03,Kg,78.39,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+843,Lesya,Stuckley,"Derivato Animale",Provolone,3.03,Kg,78.39,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+1182,Lesya,Stuckley,"Derivato Animale",Provolone,6.00,Pezzi,85.13,"2024-08-20 15:51:04",Roxana,Leeds,F,1994-10-01
+26,Lesya,Stuckley,"Derivato Animale","Carne bovina",0.51,Kg,1.52,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+371,Lesya,Stuckley,"Derivato Animale","Carne bovina",3.32,Kg,9.93,"2023-09-12 13:28:03",Willa,Kilner,Altro,1972-01-24
+426,Lesya,Stuckley,"Derivato Animale","Carne bovina",0.51,Kg,1.52,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+726,Lesya,Stuckley,"Derivato Animale","Carne bovina",0.51,Kg,1.52,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+99,Lesya,Stuckley,"Derivato Animale","Prosciutto crudo",4.62,Kg,134.63,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+499,Lesya,Stuckley,"Derivato Animale","Prosciutto crudo",4.62,Kg,134.63,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+799,Lesya,Stuckley,"Derivato Animale","Prosciutto crudo",4.62,Kg,134.63,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+1105,Lesya,Stuckley,"Derivato Animale","Prosciutto cotto",168.77,Kg,1517.17,"2024-06-16 15:57:10",Griffie,Sallings,Altro,1947-01-11
+1055,Lesya,Stuckley,Agricolo,"Brodo con erbe aromatiche",3.26,L,29.12,"2023-09-24 13:39:46",Erna,Sonier,F,2001-12-14
+119,Lesya,Stuckley,"Derivato Animale","Dessert latte e frutta",4.45,L,66.75,"2025-07-27 16:35:22",Bernard,Beastall,NULL,1989-06-23
+519,Lesya,Stuckley,"Derivato Animale","Dessert latte e frutta",4.45,L,66.75,"2025-07-27 09:35:22",Bernard,Beastall,NULL,1989-06-23
+819,Lesya,Stuckley,"Derivato Animale","Dessert latte e frutta",4.45,L,66.75,"2025-07-27 11:35:22",Bernard,Beastall,NULL,1989-06-23
+147,Lesya,Stuckley,Agricolo,Pasta,3.50,Kg,65.98,"2023-04-13 09:18:59",Starla,Sommerland,F,1957-03-07
+547,Lesya,Stuckley,Agricolo,Pasta,3.50,Kg,65.98,"2023-04-13 08:18:59",Starla,Sommerland,F,1957-03-07
+847,Lesya,Stuckley,Agricolo,Pasta,3.50,Kg,65.98,"2023-04-13 09:18:59",Starla,Sommerland,F,1957-03-07
+1184,Lesya,Stuckley,Agricolo,Pasta,2.87,Kg,26.59,"2023-11-10 09:47:03",Lyon,Arrault,M,NULL
+186,Lesya,Stuckley,Agricolo,"Dolci da forno",1.00,Pezzi,26.72,"2025-01-16 11:46:39",Collin,Spenley,M,1998-06-21
+586,Lesya,Stuckley,Agricolo,"Dolci da forno",1.00,Pezzi,26.72,"2025-01-16 11:46:39",Collin,Spenley,M,1998-06-21
+886,Lesya,Stuckley,Agricolo,"Dolci da forno",1.00,Pezzi,26.72,"2025-01-16 11:46:39",Collin,Spenley,M,1998-06-21
+94,Lesya,Stuckley,Agricolo,"Passata di pomodoro",0.31,L,3.53,"2024-05-08 12:11:32",Hogan,Roscrigg,M,1961-09-09
+494,Lesya,Stuckley,Agricolo,"Passata di pomodoro",0.31,L,3.53,"2024-05-08 09:11:32",Hogan,Roscrigg,M,1961-09-09
+794,Lesya,Stuckley,Agricolo,"Passata di pomodoro",0.31,L,3.53,"2024-05-08 08:11:32",Hogan,Roscrigg,M,1961-09-09
+1098,Lesya,Stuckley,Agricolo,"Passata di pomodoro",4.93,L,102.88,"2023-08-03 15:57:25",Clayborn,Center,"Preferisco non specificare",NULL
+1117,Lesya,Stuckley,Agricolo,"Salsa vegetale",1.08,L,22.73,"2026-02-14 09:12:45",Shelagh,Saffin,M,1955-07-28
+58,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",5.00,Kg,30.00,"2024-09-20 18:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+231,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",1.83,Kg,10.98,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+286,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",2.50,Kg,15.00,"2025-05-25 16:53:58",Allx,Aingel,M,1956-10-29
+328,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",1.77,Kg,10.62,"2024-07-18 17:15:07",Axel,Jozsika,M,1978-06-24
+458,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",5.00,Kg,30.00,"2024-09-20 19:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+631,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",1.83,Kg,10.98,"2023-10-05 14:34:48",Antone,Ingman,Altro,1949-08-22
+686,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",2.50,Kg,15.00,"2025-05-25 16:53:58",Allx,Aingel,M,1956-10-29
+758,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",5.00,Kg,30.00,"2024-09-20 17:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+931,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",1.83,Kg,10.98,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+986,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",2.50,Kg,15.00,"2025-05-25 10:53:58",Allx,Aingel,M,1956-10-29
+1146,Lesya,Stuckley,Agricolo,"Insalata pronta con condimento",7.00,Pezzi,76.95,"2024-11-03 14:34:32",Dorita,Nowak,Altro,1993-06-28
+135,Lesya,Stuckley,Agricolo,Patate,0.49,Kg,12.82,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+535,Lesya,Stuckley,Agricolo,Patate,0.49,Kg,12.82,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+835,Lesya,Stuckley,Agricolo,Patate,0.49,Kg,12.82,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+7,Lesya,Stuckley,Agricolo,Carote,4.00,Kg,24.24,"2024-06-20 12:28:37",Emilie,Arton,F,NULL
+35,Lesya,Stuckley,Agricolo,Carote,3.97,Kg,24.06,"2023-02-05 12:56:54",Sauncho,Dmtrovic,M,1995-02-22
+204,Lesya,Stuckley,Agricolo,Carote,4.91,Kg,29.75,"2025-02-25 18:51:20",Collin,Spenley,M,1998-06-21
+245,Lesya,Stuckley,Agricolo,Carote,2.28,Kg,13.82,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+407,Lesya,Stuckley,Agricolo,Carote,4.00,Kg,24.24,"2024-06-20 12:28:37",Emilie,Arton,F,NULL
+435,Lesya,Stuckley,Agricolo,Carote,3.97,Kg,24.06,"2023-02-05 12:56:54",Sauncho,Dmtrovic,M,1995-02-22
+604,Lesya,Stuckley,Agricolo,Carote,4.91,Kg,29.75,"2025-02-25 14:51:20",Collin,Spenley,M,1998-06-21
+645,Lesya,Stuckley,Agricolo,Carote,2.28,Kg,13.82,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+707,Lesya,Stuckley,Agricolo,Carote,4.00,Kg,24.24,"2024-06-20 12:28:37",Emilie,Arton,F,NULL
+735,Lesya,Stuckley,Agricolo,Carote,3.97,Kg,24.06,"2023-02-05 12:56:54",Sauncho,Dmtrovic,M,1995-02-22
+904,Lesya,Stuckley,Agricolo,Carote,4.91,Kg,29.75,"2025-02-25 19:51:20",Collin,Spenley,M,1998-06-21
+945,Lesya,Stuckley,Agricolo,Carote,2.28,Kg,13.82,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+1156,Lesya,Stuckley,Agricolo,Carote,135.13,Kg,1004.08,"2024-02-21 15:18:16",Patsy,Basile,Altro,NULL
+138,Lesya,Stuckley,Agricolo,"Frutta caramellata",4.32,Kg,105.80,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+538,Lesya,Stuckley,Agricolo,"Frutta caramellata",4.32,Kg,105.80,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+838,Lesya,Stuckley,Agricolo,"Frutta caramellata",4.32,Kg,105.80,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+215,Lesya,Stuckley,Agricolo,Noci,3.40,Kg,48.52,"2025-10-12 11:48:22",Simonne,Brosi,F,1964-10-21
+615,Lesya,Stuckley,Agricolo,Noci,3.40,Kg,48.52,"2025-10-12 11:48:22",Simonne,Brosi,F,1964-10-21
+915,Lesya,Stuckley,Agricolo,Noci,3.40,Kg,48.52,"2025-10-12 11:48:22",Simonne,Brosi,F,1964-10-21
+284,Richmond,Koschke,Agricolo,"Burro chiarificato",4.48,Kg,30.96,"2024-07-17 11:25:13",Eryn,Sherrocks,F,1961-05-19
+684,Richmond,Koschke,Agricolo,"Burro chiarificato",4.48,L,30.96,"2024-07-17 16:25:13",Eryn,Sherrocks,F,1961-05-19
+984,Richmond,Koschke,Agricolo,"Burro chiarificato",4.48,L,30.96,"2024-07-17 11:25:13",Eryn,Sherrocks,F,1961-05-19
+1179,Richmond,Koschke,Agricolo,"Burro chiarificato",2.44,Kg,22.81,"2025-12-15 17:23:43",Clayborn,Center,"Preferisco non specificare",NULL
+32,Richmond,Koschke,Agricolo,"Formaggio ovino",1.58,Kg,11.58,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+432,Richmond,Koschke,Agricolo,"Formaggio ovino",1.58,Kg,11.58,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+732,Richmond,Koschke,Agricolo,"Formaggio ovino",1.58,Kg,11.58,"2023-08-17 09:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+1126,Richmond,Koschke,"Derivato Animale","Salame al vino rosso",1.50,Kg,10.58,"2025-05-15 13:08:07",Thaine,Pendlington,Altro,1984-08-05
+167,Richmond,Koschke,"Derivato Animale",Speck,0.69,Kg,15.14,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+567,Richmond,Koschke,"Derivato Animale",Speck,0.69,Kg,15.14,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+867,Richmond,Koschke,"Derivato Animale",Speck,0.69,Kg,15.14,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+363,Richmond,Koschke,"Derivato Animale","Siero di latte",2.72,L,50.43,"2026-01-11 19:33:59",Antonina,Rooksby,Altro,1959-08-01
+1095,Richmond,Koschke,"Derivato Animale","Siero di latte",3.98,L,91.18,"2024-12-17 18:10:30",Kipper,Caldairou,"Preferisco non specificare",2002-08-21
+249,Richmond,Koschke,Agricolo,Grano,4.00,Kg,32.80,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+649,Richmond,Koschke,Agricolo,Grano,4.00,Kg,32.80,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+949,Richmond,Koschke,Agricolo,Grano,4.00,Kg,32.80,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+1067,Richmond,Koschke,Agricolo,Grano,181.65,Kg,515.72,"2025-03-17 17:21:18",Wendy,Givens,"Preferisco non specificare",NULL
+1170,Richmond,Koschke,Agricolo,"Pasta secca",1.58,Kg,8.35,"2024-02-09 09:00:33",Aloise,Faivre,"Preferisco non specificare",1998-12-04
+142,Richmond,Koschke,Agricolo,"Verdure fresche",4.25,Kg,42.03,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+542,Richmond,Koschke,Agricolo,"Verdure fresche",4.25,Kg,42.03,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+842,Richmond,Koschke,Agricolo,"Verdure fresche",4.25,Kg,42.03,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+1113,Richmond,Koschke,Agricolo,"Verdure fresche",90.28,Kg,643.35,"2024-08-24 10:54:03",Izak,Targe,"Preferisco non specificare",1981-11-03
+180,Richmond,Koschke,"Derivato Animale","Verdure grigliate",0.63,Kg,6.56,"2024-08-10 12:48:09",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+580,Richmond,Koschke,"Derivato Animale","Verdure grigliate",0.63,Kg,6.56,"2024-08-10 12:48:09",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+880,Richmond,Koschke,"Derivato Animale","Verdure grigliate",0.63,Kg,6.56,"2024-08-10 12:48:09",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+1176,Richmond,Koschke,"Derivato Animale","Verdure grigliate",168.16,Kg,398.95,"2024-11-03 10:52:27",Sharona,Woodhams,Altro,1949-12-26
+1186,Richmond,Koschke,"Derivato Animale","Verdure grigliate",101.85,Kg,497.71,"2026-02-22 18:28:37",Darn,Shurville,Altro,1981-10-07
+210,Richmond,Koschke,Agricolo,"Verdure sott’aceto",3.56,Kg,23.32,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+345,Richmond,Koschke,Agricolo,"Verdure sott’aceto",4.00,Kg,26.20,"2024-08-10 11:15:31",Kenna,Rioch,F,1950-07-10
+610,Richmond,Koschke,Agricolo,"Verdure sott’aceto",3.56,Kg,23.32,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+910,Richmond,Koschke,Agricolo,"Verdure sott’aceto",3.56,Kg,23.32,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+1052,Richmond,Koschke,Agricolo,"Verdure sott’aceto",2.00,Pezzi,31.42,"2023-11-19 16:37:12",Douglas,Tebbet,M,1977-02-15
+5,Richmond,Koschke,Agricolo,"Verdure fermentate",1.44,Kg,11.95,"2025-07-17 08:36:06",Ramon,Newton,M,1951-12-22
+132,Richmond,Koschke,Agricolo,"Verdure fermentate",4.34,Kg,36.02,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+224,Richmond,Koschke,Agricolo,"Verdure fermentate",0.63,Kg,5.23,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+405,Richmond,Koschke,Agricolo,"Verdure fermentate",1.44,Kg,11.95,"2025-07-17 17:36:06",Ramon,Newton,M,1951-12-22
+532,Richmond,Koschke,Agricolo,"Verdure fermentate",4.34,Kg,36.02,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+624,Richmond,Koschke,Agricolo,"Verdure fermentate",0.63,Kg,5.23,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+705,Richmond,Koschke,Agricolo,"Verdure fermentate",1.44,Kg,11.95,"2025-07-17 18:36:06",Ramon,Newton,M,1951-12-22
+832,Richmond,Koschke,Agricolo,"Verdure fermentate",4.34,Kg,36.02,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+924,Richmond,Koschke,Agricolo,"Verdure fermentate",0.63,Kg,5.23,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+1134,Richmond,Koschke,Agricolo,"Verdure fermentate",117.40,Kg,215.93,"2023-05-12 09:37:24",Juliana,Paty,NULL,1952-03-09
+1047,Richmond,Koschke,Agricolo,Cipolle,150.04,Kg,873.38,"2023-10-14 11:25:46",Douglas,Tebbet,M,1977-02-15
+183,Richmond,Koschke,Agricolo,Radicchio,4.87,Kg,132.32,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+583,Richmond,Koschke,Agricolo,Radicchio,4.87,Kg,132.32,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+883,Richmond,Koschke,Agricolo,Radicchio,4.87,Kg,132.32,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+1144,Richmond,Koschke,Agricolo,Radicchio,166.31,Kg,712.09,"2025-11-22 08:03:31",Randie,Genge,M,1999-02-25
+108,Richmond,Koschke,Agricolo,"Frutta secca",4.04,Kg,74.82,"2024-11-08 15:16:56",Damiano,Sharratt,NULL,NULL
+508,Richmond,Koschke,Agricolo,"Frutta secca",4.04,Kg,74.82,"2024-11-08 14:16:56",Damiano,Sharratt,NULL,NULL
+808,Richmond,Koschke,Agricolo,"Frutta secca",4.04,Kg,74.82,"2024-11-08 11:16:56",Damiano,Sharratt,NULL,NULL
+1012,Richmond,Koschke,Agricolo,Pere,6.00,Pezzi,58.25,"2023-07-10 15:56:41",Gonzales,Restall,M,1990-05-05
+278,Richmond,Koschke,Agricolo,"Cereali tostati",1.81,Kg,4.40,"2024-07-21 16:16:06",Graehme,Benjamin,M,1973-02-16
+678,Richmond,Koschke,Agricolo,"Cereali tostati",1.81,Kg,4.40,"2024-07-21 16:16:06",Graehme,Benjamin,M,1973-02-16
+978,Richmond,Koschke,Agricolo,"Cereali tostati",1.81,Kg,4.40,"2024-07-21 19:16:06",Graehme,Benjamin,M,1973-02-16
+1030,Richmond,Koschke,Agricolo,"Cereali tostati",1.00,Pezzi,7.61,"2025-10-28 18:57:06",Sharona,Woodhams,Altro,1949-12-26
+1107,Richmond,Koschke,Agricolo,"Cereali tostati",2.00,Pezzi,30.61,"2024-08-22 12:03:44",Adolph,Bagg,M,1967-12-17
+115,Richmond,Koschke,Agricolo,"Purea di frutta",4.03,Kg,38.97,"2025-04-29 15:06:54",Claiborn,Raymen,M,1988-10-19
+308,Richmond,Koschke,Agricolo,"Purea di frutta",4.13,L,39.94,"2024-07-14 15:08:07",Elena,Aubry,F,1944-07-27
+515,Richmond,Koschke,Agricolo,"Purea di frutta",4.03,Kg,38.97,"2025-04-29 16:06:54",Claiborn,Raymen,M,1988-10-19
+815,Richmond,Koschke,Agricolo,"Purea di frutta",4.03,Kg,38.97,"2025-04-29 12:06:54",Claiborn,Raymen,M,1988-10-19
+1064,Richmond,Koschke,Agricolo,"Succo concentrato",4.62,L,87.08,"2024-09-25 11:24:06",Sharona,Woodhams,Altro,1949-12-26
+380,Clayborne,Lainton,"Derivato Animale","Latte senza lattosio",1.39,L,9.42,"2024-10-19 09:01:11",Marian,Niemetz,NULL,1981-07-21
+1045,Clayborne,Lainton,"Derivato Animale","Latte senza lattosio",3.86,L,96.54,"2023-04-13 18:53:36",Randie,Genge,M,1999-02-25
+1054,Clayborne,Lainton,"Derivato Animale","Latte senza lattosio",2.98,L,63.22,"2025-05-25 15:58:37",Fanechka,Fearnyough,F,1963-07-06
+257,Clayborne,Lainton,"Derivato Animale","Yogurt alla vaniglia",5.00,Kg,16.00,"2024-05-30 14:06:47",Allx,Aingel,M,1956-10-29
+657,Clayborne,Lainton,"Derivato Animale","Yogurt alla vaniglia",5.00,Kg,16.00,"2024-05-30 12:06:47",Allx,Aingel,M,1956-10-29
+957,Clayborne,Lainton,"Derivato Animale","Yogurt alla vaniglia",5.00,Kg,16.00,"2024-05-30 14:06:47",Allx,Aingel,M,1956-10-29
+331,Clayborne,Lainton,"Derivato Animale","Ricotta con cacao",4.60,Kg,82.80,"2023-09-15 15:45:47",Else,Dunnett,Altro,1945-01-05
+1154,Clayborne,Lainton,"Derivato Animale","Ricotta con cacao",2.13,Kg,10.74,"2024-04-08 15:48:34",Shelagh,Saffin,M,1955-07-28
+84,Clayborne,Lainton,"Derivato Animale",Scamorza,3.58,Kg,90.25,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+484,Clayborne,Lainton,"Derivato Animale",Scamorza,3.58,Kg,90.25,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+784,Clayborne,Lainton,"Derivato Animale",Scamorza,3.58,Kg,90.25,"2023-02-07 11:32:10",Axel,Jozsika,M,1978-06-24
+1122,Clayborne,Lainton,"Derivato Animale",Scamorza,9.00,Pezzi,95.36,"2025-02-25 11:26:38",Roxana,Leeds,F,1994-10-01
+1040,Clayborne,Lainton,"Derivato Animale","Carne caprina",68.43,Kg,365.97,"2025-12-04 12:18:55",Verney,Artus,M,1974-03-28
+185,Clayborne,Lainton,"Derivato Animale","Carne lavorata",3.00,Kg,20.25,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+585,Clayborne,Lainton,"Derivato Animale","Carne lavorata",3.00,Kg,20.25,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+885,Clayborne,Lainton,"Derivato Animale","Carne lavorata",3.00,Kg,20.25,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+1013,Clayborne,Lainton,"Derivato Animale","Carne lavorata",132.18,Kg,864.22,"2025-12-03 08:51:52",Mathew,Gravenell,NULL,2004-02-06
+1037,Clayborne,Lainton,"Derivato Animale","Carne lavorata",126.26,Kg,396.76,"2026-01-17 12:25:51",Gena,Huscroft,NULL,2005-09-01
+1074,Clayborne,Lainton,"Derivato Animale","Polpette con spezie",4.00,Pezzi,90.71,"2024-12-08 14:44:46",Upton,Beggi,M,1944-08-16
+1036,Clayborne,Lainton,Agricolo,"Pasta ripiena vegetale",7.37,Kg,17.26,"2025-10-31 15:44:42",Izak,Targe,"Preferisco non specificare",1981-11-03
+219,Clayborne,Lainton,Agricolo,Biscotti,10.00,Pezzi,38.50,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+619,Clayborne,Lainton,Agricolo,Biscotti,10.00,Pezzi,38.50,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+919,Clayborne,Lainton,Agricolo,Biscotti,10.00,Pezzi,38.50,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+370,Clayborne,Lainton,Agricolo,"Dolci da forno",6.00,Pezzi,160.32,"2023-09-12 13:28:03",Willa,Kilner,Altro,1972-01-24
+1015,Clayborne,Lainton,Agricolo,"Dolci da forno",9.00,Pezzi,102.86,"2023-10-25 15:10:17",Sonny,Grocott,M,1992-05-06
+324,Clayborne,Lainton,Agricolo,"Succo di agrumi",3.62,L,12.38,"2023-10-24 16:21:14",Van,Langrick,Altro,1942-11-27
+1042,Clayborne,Lainton,Agricolo,Confettura,2.96,Kg,16.96,"2023-11-19 19:57:55",Heather,Dumpleton,"Preferisco non specificare",1978-04-11
+227,Clayborne,Lainton,Agricolo,"Salsa piccante",4.00,L,118.92,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+627,Clayborne,Lainton,Agricolo,"Salsa piccante",4.00,L,118.92,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+927,Clayborne,Lainton,Agricolo,"Salsa piccante",4.00,L,118.92,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+351,Clayborne,Lainton,Agricolo,"Verdure surgelate",0.52,Pezzi,12.40,"2025-08-18 11:58:15",Maximo,Gannaway,M,NULL
+221,Clayborne,Lainton,Agricolo,Pomodori,3.57,Kg,63.51,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+317,Clayborne,Lainton,Agricolo,Pomodori,5.00,Pezzi,88.95,"2026-04-04 13:02:33",Celestine,Capron,Altro,1987-12-31
+621,Clayborne,Lainton,Agricolo,Pomodori,3.57,Kg,63.51,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+921,Clayborne,Lainton,Agricolo,Pomodori,3.57,Kg,63.51,"2024-03-30 12:48:08",Muire,Raoux,NULL,1943-04-24
+302,Clayborne,Lainton,Agricolo,Patate,4.35,Kg,113.80,"2025-04-08 08:20:36",Koo,Dring,M,1968-10-09
+382,Clayborne,Lainton,Agricolo,Patate,4.29,Kg,112.23,"2025-04-11 08:01:08",Lily,Axford,Altro,1994-03-27
+113,Clayborne,Lainton,Agricolo,"Frutta essiccata",5.00,Kg,147.50,"2026-02-19 13:13:20",Marian,Niemetz,NULL,1981-07-21
+513,Clayborne,Lainton,Agricolo,"Frutta essiccata",5.00,Kg,147.50,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+813,Clayborne,Lainton,Agricolo,"Frutta essiccata",5.00,Kg,147.50,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+1094,Clayborne,Lainton,Agricolo,"Frutta essiccata",7.86,Kg,13.19,"2024-08-27 14:56:45",Harlene,Cartlidge,F,1941-03-25
+279,Clayborne,Lainton,Agricolo,"Frutta sciroppata",3.38,Kg,74.77,"2025-09-18 14:36:15",Taber,Chandlar,NULL,1992-06-09
+679,Clayborne,Lainton,Agricolo,"Frutta sciroppata",3.38,Pezzi,74.77,"2025-09-18 09:36:15",Taber,Chandlar,NULL,1992-06-09
+979,Clayborne,Lainton,Agricolo,"Frutta sciroppata",3.38,Pezzi,74.77,"2025-09-18 10:36:15",Taber,Chandlar,NULL,1992-06-09
+253,Clayborne,Lainton,Agricolo,"Snack vegetali",3.00,Kg,23.13,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+653,Clayborne,Lainton,Agricolo,"Snack vegetali",3.00,Pezzi,23.13,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+953,Clayborne,Lainton,Agricolo,"Snack vegetali",3.00,Kg,23.13,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+1121,Clayborne,Lainton,Agricolo,"Snack vegetali",187.37,Kg,530.20,"2025-09-30 15:50:45",Celinka,Mourgue,Altro,1946-07-13
+1198,Si,Tinwell,"Derivato Animale","Latte crudo",2.39,L,14.84,"2025-04-22 19:27:02",Harlene,Cartlidge,F,1941-03-25
+34,Si,Tinwell,"Derivato Animale",Burro,3.23,Kg,54.26,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+434,Si,Tinwell,"Derivato Animale",Burro,3.23,Kg,54.26,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+734,Si,Tinwell,"Derivato Animale",Burro,3.23,Kg,54.26,"2023-08-17 09:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+223,Si,Tinwell,"Derivato Animale","Yogurt alla vaniglia",0.91,Kg,2.91,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+623,Si,Tinwell,"Derivato Animale","Yogurt alla vaniglia",0.91,Kg,2.91,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+923,Si,Tinwell,"Derivato Animale","Yogurt alla vaniglia",0.91,Kg,2.91,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+1021,Si,Tinwell,"Derivato Animale","Yogurt alla vaniglia",6.46,Kg,40.22,"2023-01-14 12:10:41",Coriss,Tunnick,Altro,1947-11-15
+28,Si,Tinwell,"Derivato Animale","Carne suina",3.00,Kg,62.31,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+428,Si,Tinwell,"Derivato Animale","Carne suina",3.00,Kg,62.31,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+728,Si,Tinwell,"Derivato Animale","Carne suina",3.00,Kg,62.31,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+1128,Si,Tinwell,"Derivato Animale","Carne suina",180.91,Kg,510.08,"2023-01-26 18:49:12",Darn,Shurville,Altro,1981-10-07
+194,Si,Tinwell,"Derivato Animale","Carne con erbe aromatiche",2.46,Kg,103.32,"2023-06-17 11:47:29",Zulema,Dabrowski,F,1959-01-14
+594,Si,Tinwell,"Derivato Animale","Carne con erbe aromatiche",2.46,Kg,103.32,"2023-06-17 11:47:29",Zulema,Dabrowski,F,1959-01-14
+894,Si,Tinwell,"Derivato Animale","Carne con erbe aromatiche",2.46,Kg,103.32,"2023-06-17 11:47:29",Zulema,Dabrowski,F,1959-01-14
+250,Si,Tinwell,"Derivato Animale",Salame,5.00,Kg,23.10,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+273,Si,Tinwell,"Derivato Animale",Salame,4.69,Kg,21.67,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+283,Si,Tinwell,"Derivato Animale",Salame,4.00,Kg,18.48,"2025-09-18 14:36:15",Taber,Chandlar,NULL,1992-06-09
+650,Si,Tinwell,"Derivato Animale",Salame,5.00,Kg,23.10,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+673,Si,Tinwell,"Derivato Animale",Salame,4.69,Kg,21.67,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+683,Si,Tinwell,"Derivato Animale",Salame,4.00,Kg,18.48,"2025-09-18 09:36:15",Taber,Chandlar,NULL,1992-06-09
+950,Si,Tinwell,"Derivato Animale",Salame,5.00,Kg,23.10,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+973,Si,Tinwell,"Derivato Animale",Salame,4.69,Kg,21.67,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+983,Si,Tinwell,"Derivato Animale",Salame,4.00,Kg,18.48,"2025-09-18 10:36:15",Taber,Chandlar,NULL,1992-06-09
+196,Si,Tinwell,"Derivato Animale",Hamburger,9.00,Pezzi,96.39,"2025-06-21 10:10:08",Paco,Keighly,NULL,1942-02-05
+197,Si,Tinwell,"Derivato Animale",Hamburger,6.00,Pezzi,64.26,"2025-06-21 10:10:08",Paco,Keighly,NULL,1942-02-05
+596,Si,Tinwell,"Derivato Animale",Hamburger,9.00,Pezzi,96.39,"2025-06-21 10:10:08",Paco,Keighly,NULL,1942-02-05
+597,Si,Tinwell,"Derivato Animale",Hamburger,6.00,Pezzi,64.26,"2025-06-21 10:10:08",Paco,Keighly,NULL,1942-02-05
+896,Si,Tinwell,"Derivato Animale",Hamburger,9.00,Pezzi,96.39,"2025-06-21 10:10:08",Paco,Keighly,NULL,1942-02-05
+897,Si,Tinwell,"Derivato Animale",Hamburger,6.00,Pezzi,64.26,"2025-06-21 10:10:08",Paco,Keighly,NULL,1942-02-05
+19,Si,Tinwell,"Derivato Animale",Polpette,9.00,Pezzi,240.66,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+419,Si,Tinwell,"Derivato Animale",Polpette,9.00,Pezzi,240.66,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+719,Si,Tinwell,"Derivato Animale",Polpette,9.00,Pezzi,240.66,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+1124,Si,Tinwell,"Derivato Animale",Polpette,5.00,Pezzi,124.01,"2025-02-25 11:50:10",Shelagh,Saffin,M,1955-07-28
+24,Si,Tinwell,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+424,Si,Tinwell,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+724,Si,Tinwell,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+200,Si,Tinwell,"Derivato Animale","Miele di acacia",5.00,Kg,146.35,"2025-02-25 18:51:20",Collin,Spenley,M,1998-06-21
+600,Si,Tinwell,"Derivato Animale","Miele di acacia",5.00,Kg,146.35,"2025-02-25 14:51:20",Collin,Spenley,M,1998-06-21
+900,Si,Tinwell,"Derivato Animale","Miele di acacia",5.00,Kg,146.35,"2025-02-25 19:51:20",Collin,Spenley,M,1998-06-21
+15,Si,Tinwell,"Derivato Animale","Siero di latte",3.00,L,55.62,"2025-06-06 09:33:27",Andriette,Cardero,NULL,1964-08-10
+37,Si,Tinwell,"Derivato Animale","Siero di latte",3.00,L,55.62,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+190,Si,Tinwell,"Derivato Animale","Siero di latte",4.06,L,75.27,"2025-09-22 17:40:21",Claiborn,Raymen,M,1988-10-19
+415,Si,Tinwell,"Derivato Animale","Siero di latte",3.00,L,55.62,"2025-06-06 15:33:27",Andriette,Cardero,NULL,1964-08-10
+437,Si,Tinwell,"Derivato Animale","Siero di latte",3.00,L,55.62,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+590,Si,Tinwell,"Derivato Animale","Siero di latte",4.06,L,75.27,"2025-09-22 17:40:21",Claiborn,Raymen,M,1988-10-19
+715,Si,Tinwell,"Derivato Animale","Siero di latte",3.00,L,55.62,"2025-06-06 18:33:27",Andriette,Cardero,NULL,1964-08-10
+737,Si,Tinwell,"Derivato Animale","Siero di latte",3.00,L,55.62,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+890,Si,Tinwell,"Derivato Animale","Siero di latte",4.06,L,75.27,"2025-09-22 17:40:21",Claiborn,Raymen,M,1988-10-19
+1033,Si,Tinwell,"Derivato Animale","Siero di latte",2.33,L,60.12,"2024-02-18 10:24:12",Rozina,Bonome,"Preferisco non specificare",NULL
+1103,Si,Tinwell,"Derivato Animale","Siero di latte",0.51,L,5.76,"2025-05-31 16:11:20",Osbourn,Blackey,"Preferisco non specificare",1952-05-20
+1189,Si,Tinwell,"Derivato Animale","Crema di formaggio al peperoncino",6.87,Kg,22.69,"2023-04-16 09:35:11",Myca,Diemer,Altro,1944-07-10
+1080,Si,Tinwell,"Derivato Animale","Gelato al latte",1.79,L,46.99,"2024-04-15 17:49:27",Fanechka,Fearnyough,F,1963-07-06
+293,Si,Tinwell,Agricolo,"Pane alle erbe aromatiche",7.00,Pezzi,35.00,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+693,Si,Tinwell,Agricolo,"Pane alle erbe aromatiche",7.00,Pezzi,35.00,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+993,Si,Tinwell,Agricolo,"Pane alle erbe aromatiche",7.00,Pezzi,35.00,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+313,Si,Tinwell,Agricolo,"Olio extravergine",2.05,L,27.37,"2024-05-29 10:00:42",Gwenore,Haslock(e),NULL,NULL
+152,Si,Tinwell,Agricolo,"Succo di frutta",4.18,L,25.00,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+335,Si,Tinwell,Agricolo,"Succo di frutta",2.00,L,11.96,"2023-07-18 16:45:20",Chalmers,Tooze,M,1997-09-27
+552,Si,Tinwell,Agricolo,"Succo di frutta",4.18,L,25.00,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+852,Si,Tinwell,Agricolo,"Succo di frutta",4.18,L,25.00,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+1108,Si,Tinwell,Agricolo,"Succo di frutta",4.96,L,56.08,"2023-04-03 14:12:34",Norri,Petters,M,1960-03-26
+1150,Si,Tinwell,Agricolo,"Succo di frutta",2.65,L,65.73,"2025-05-12 15:25:54",Liesa,Lamming,F,1992-09-13
+70,Si,Tinwell,Agricolo,"Confettura con spezie",3.00,Kg,24.00,"2025-03-07 09:57:41",Fremont,Backson,M,NULL
+470,Si,Tinwell,Agricolo,"Confettura con spezie",3.00,Kg,24.00,"2025-03-07 09:57:41",Fremont,Backson,M,NULL
+770,Si,Tinwell,Agricolo,"Confettura con spezie",3.00,Kg,24.00,"2025-03-07 09:57:41",Fremont,Backson,M,NULL
+43,Si,Tinwell,Agricolo,"Verdure fresche",2.84,Kg,28.09,"2026-02-21 19:29:08",Gwenore,Haslock(e),NULL,NULL
+443,Si,Tinwell,Agricolo,"Verdure fresche",2.84,Kg,28.09,"2026-02-21 19:29:08",Gwenore,Haslock(e),NULL,NULL
+743,Si,Tinwell,Agricolo,"Verdure fresche",2.84,Kg,28.09,"2026-02-21 18:29:08",Gwenore,Haslock(e),NULL,NULL
+1050,Si,Tinwell,Agricolo,"Verdure fresche",164.13,Kg,863.14,"2025-04-05 11:28:07",Osbourn,Blackey,"Preferisco non specificare",1952-05-20
+193,Si,Tinwell,Agricolo,"Insalata pronta con condimento",2.61,Kg,15.66,"2024-10-20 18:34:45",Aridatha,Duxfield,Altro,1953-03-05
+593,Si,Tinwell,Agricolo,"Insalata pronta con condimento",2.61,Kg,15.66,"2024-10-20 18:34:45",Aridatha,Duxfield,Altro,1953-03-05
+893,Si,Tinwell,Agricolo,"Insalata pronta con condimento",2.61,Kg,15.66,"2024-10-20 18:34:45",Aridatha,Duxfield,Altro,1953-03-05
+303,Si,Tinwell,Agricolo,Lattuga,3.45,Kg,99.64,"2025-04-08 08:20:36",Koo,Dring,M,1968-10-09
+1031,Si,Tinwell,Agricolo,Lattuga,40.63,Kg,271.63,"2025-10-02 14:55:03",Darn,Shurville,Altro,1981-10-07
+159,Si,Tinwell,Agricolo,"Frutta secca",3.44,Kg,63.71,"2023-04-06 18:57:31",Delia,Hirjak,Altro,1995-09-21
+559,Si,Tinwell,Agricolo,"Frutta secca",3.44,Kg,63.71,"2023-04-06 19:57:31",Delia,Hirjak,Altro,1995-09-21
+859,Si,Tinwell,Agricolo,"Frutta secca",3.44,Kg,63.71,"2023-04-06 11:57:31",Delia,Hirjak,Altro,1995-09-21
+234,Si,Tinwell,Agricolo,Pere,7.00,Pezzi,186.76,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+634,Si,Tinwell,Agricolo,Pere,7.00,Pezzi,186.76,"2023-10-05 14:34:48",Antone,Ingman,Altro,1949-08-22
+934,Si,Tinwell,Agricolo,Pere,7.00,Pezzi,186.76,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+1069,Si,Tinwell,Agricolo,Pere,140.41,Kg,392.39,"2024-04-05 19:46:53",Gena,Huscroft,NULL,2005-09-01
+67,Si,Tinwell,Agricolo,Agrumi,9.00,Pezzi,131.67,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+292,Si,Tinwell,Agricolo,Agrumi,3.00,Pezzi,43.89,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+467,Si,Tinwell,Agricolo,Agrumi,9.00,Pezzi,131.67,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+692,Si,Tinwell,Agricolo,Agrumi,3.00,Pezzi,43.89,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+767,Si,Tinwell,Agricolo,Agrumi,9.00,Pezzi,131.67,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+992,Si,Tinwell,Agricolo,Agrumi,3.00,Pezzi,43.89,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+290,Si,Tinwell,Agricolo,Mandorle,4.00,Kg,43.88,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+690,Si,Tinwell,Agricolo,Mandorle,4.00,Kg,43.88,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+990,Si,Tinwell,Agricolo,Mandorle,4.00,Kg,43.88,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+1061,Si,Tinwell,Agricolo,Mandorle,9.00,Pezzi,44.26,"2026-01-31 12:29:45",Rebeka,Gawn,"Preferisco non specificare",1947-10-02
+1099,Si,Tinwell,Agricolo,Mandorle,4.00,Pezzi,57.67,"2024-02-18 10:54:48",Silvio,Idiens,"Preferisco non specificare",1938-04-02
+48,Si,Tinwell,Agricolo,"Cereali tostati",3.33,Kg,8.09,"2024-04-01 09:05:49",Clyve,Bellenie,Altro,2005-09-24
+397,Si,Tinwell,Agricolo,"Cereali tostati",0.24,Kg,0.58,"2023-11-19 12:10:41",Gwenore,Haslock(e),NULL,NULL
+448,Si,Tinwell,Agricolo,"Cereali tostati",3.33,Kg,8.09,"2024-04-01 09:05:49",Clyve,Bellenie,Altro,2005-09-24
+748,Si,Tinwell,Agricolo,"Cereali tostati",3.33,Kg,8.09,"2024-04-01 09:05:49",Clyve,Bellenie,Altro,2005-09-24
+1076,Si,Tinwell,Agricolo,"Cereali tostati",7.37,Kg,33.81,"2025-09-02 14:36:17",Stormie,Fante,"Preferisco non specificare",1950-12-23
+166,Lenard,Warboys,"Derivato Animale","Ricotta con miele",4.97,Kg,74.55,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+373,Lenard,Warboys,"Derivato Animale","Ricotta con miele",3.62,Kg,54.30,"2024-09-12 13:11:56",Celestine,Capron,Altro,1987-12-31
+566,Lenard,Warboys,"Derivato Animale","Ricotta con miele",4.97,Kg,74.55,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+866,Lenard,Warboys,"Derivato Animale","Ricotta con miele",4.97,Kg,74.55,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+1171,Lenard,Warboys,"Derivato Animale","Ricotta con miele",1.39,Kg,7.01,"2026-02-02 12:51:41",Gonzales,Restall,M,1990-05-05
+168,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",5.00,Kg,82.20,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+182,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",3.38,Kg,55.57,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+270,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",4.58,Kg,75.30,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+325,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",4.00,Kg,65.76,"2023-10-24 16:21:14",Van,Langrick,Altro,1942-11-27
+568,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",5.00,Kg,82.20,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+582,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",3.38,Kg,55.57,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+670,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",4.58,Kg,75.30,"2024-07-21 17:11:30",Antone,Ingman,Altro,1949-08-22
+868,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",5.00,Kg,82.20,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+882,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",3.38,Kg,55.57,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+970,Lenard,Warboys,"Derivato Animale","Mozzarella affumicata",4.58,Kg,75.30,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+87,Lenard,Warboys,"Derivato Animale","Formaggio stagionato",3.00,Kg,65.37,"2023-02-13 16:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+487,Lenard,Warboys,"Derivato Animale","Formaggio stagionato",3.00,Kg,65.37,"2023-02-13 13:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+787,Lenard,Warboys,"Derivato Animale","Formaggio stagionato",3.00,Kg,65.37,"2023-02-13 11:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+129,Lenard,Warboys,"Derivato Animale",Caciotta,2.47,Kg,32.33,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+529,Lenard,Warboys,"Derivato Animale",Caciotta,2.47,Kg,32.33,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+829,Lenard,Warboys,"Derivato Animale",Caciotta,2.47,Kg,32.33,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+1106,Lenard,Warboys,"Derivato Animale","Polpette con spezie",7.00,Pezzi,146.22,"2025-01-12 13:59:04",Lyon,Arrault,M,NULL
+18,Lenard,Warboys,"Derivato Animale","Brodo di carne",4.00,L,44.68,"2025-06-06 09:33:27",Andriette,Cardero,NULL,1964-08-10
+418,Lenard,Warboys,"Derivato Animale","Brodo di carne",4.00,L,44.68,"2025-06-06 15:33:27",Andriette,Cardero,NULL,1964-08-10
+718,Lenard,Warboys,"Derivato Animale","Brodo di carne",4.00,L,44.68,"2025-06-06 18:33:27",Andriette,Cardero,NULL,1964-08-10
+50,Lenard,Warboys,"Derivato Animale","Miele di agrumi",4.00,Kg,38.80,"2025-09-28 10:19:25",Brandea,Laver,NULL,2004-08-03
+77,Lenard,Warboys,"Derivato Animale","Miele di agrumi",4.23,Kg,41.03,"2023-05-24 09:29:49",Yehudit,Edds,F,1944-09-07
+228,Lenard,Warboys,"Derivato Animale","Miele di agrumi",3.00,Kg,29.10,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+450,Lenard,Warboys,"Derivato Animale","Miele di agrumi",4.00,Kg,38.80,"2025-09-28 10:19:25",Brandea,Laver,NULL,2004-08-03
+477,Lenard,Warboys,"Derivato Animale","Miele di agrumi",4.23,Kg,41.03,"2023-05-24 09:29:49",Yehudit,Edds,F,1944-09-07
+628,Lenard,Warboys,"Derivato Animale","Miele di agrumi",3.00,Kg,29.10,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+750,Lenard,Warboys,"Derivato Animale","Miele di agrumi",4.00,Kg,38.80,"2025-09-28 10:19:25",Brandea,Laver,NULL,2004-08-03
+777,Lenard,Warboys,"Derivato Animale","Miele di agrumi",4.23,Kg,41.03,"2023-05-24 09:29:49",Yehudit,Edds,F,1944-09-07
+928,Lenard,Warboys,"Derivato Animale","Miele di agrumi",3.00,Kg,29.10,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+1123,Lenard,Warboys,"Derivato Animale","Crema di formaggio al peperoncino",3.02,Kg,15.75,"2024-03-26 13:06:49",Fanechka,Fearnyough,F,1963-07-06
+1143,Lenard,Warboys,Agricolo,"Farina di mais",5.54,Kg,50.88,"2023-03-20 10:44:08",Roxana,Leeds,F,1994-10-01
+89,Lenard,Warboys,Agricolo,"Pasta al pomodoro",4.33,Kg,34.64,"2023-02-13 16:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+244,Lenard,Warboys,Agricolo,"Pasta al pomodoro",4.44,Kg,35.52,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+489,Lenard,Warboys,Agricolo,"Pasta al pomodoro",4.33,Kg,34.64,"2023-02-13 13:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+644,Lenard,Warboys,Agricolo,"Pasta al pomodoro",4.44,Kg,35.52,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+789,Lenard,Warboys,Agricolo,"Pasta al pomodoro",4.33,Kg,34.64,"2023-02-13 11:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+944,Lenard,Warboys,Agricolo,"Pasta al pomodoro",4.44,Kg,35.52,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+1129,Lenard,Warboys,Agricolo,"Olio extravergine",3.04,L,86.58,"2025-03-16 13:04:57",Issy,Cobbe,F,2007-10-09
+1145,Lenard,Warboys,Agricolo,"Olio extravergine",2.47,L,35.74,"2023-11-13 13:37:49",Roxana,Leeds,F,1994-10-01
+1130,Lenard,Warboys,Agricolo,Aglio,2.36,Kg,13.83,"2026-01-01 12:18:56",Prinz,Petracek,Altro,1950-03-25
+156,Mack,Bastow,"Derivato Animale","Latte senza lattosio",4.00,L,27.12,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+556,Mack,Bastow,"Derivato Animale","Latte senza lattosio",4.00,L,27.12,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+856,Mack,Bastow,"Derivato Animale","Latte senza lattosio",4.00,L,27.12,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+1197,Mack,Bastow,"Derivato Animale","Latte senza lattosio",4.08,L,111.14,"2023-06-18 08:17:28",Roxana,Leeds,F,1994-10-01
+123,Mack,Bastow,"Derivato Animale","Ricotta stagionata",2.92,Kg,7.77,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+523,Mack,Bastow,"Derivato Animale","Ricotta stagionata",2.92,Kg,7.77,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+823,Mack,Bastow,"Derivato Animale","Ricotta stagionata",2.92,Kg,7.77,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+1001,Mack,Bastow,"Derivato Animale","Ricotta stagionata",1.00,Pezzi,18.28,"2023-02-17 10:25:54",Thaine,Pendlington,Altro,1984-08-05
+1092,Mack,Bastow,"Derivato Animale","Formaggio stagionato",2.30,Kg,13.01,"2024-10-11 09:15:00",Dierdre,Gaitone,F,1994-06-02
+56,Mack,Bastow,"Derivato Animale","Formaggio alle noci",5.00,Kg,130.00,"2024-09-20 18:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+456,Mack,Bastow,"Derivato Animale","Formaggio alle noci",5.00,Kg,130.00,"2024-09-20 19:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+756,Mack,Bastow,"Derivato Animale","Formaggio alle noci",5.00,Kg,130.00,"2024-09-20 17:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+330,Mack,Bastow,"Derivato Animale","Formaggio spalmabile",4.41,Kg,72.41,"2024-07-18 17:15:07",Axel,Jozsika,M,1978-06-24
+1048,Mack,Bastow,"Derivato Animale","Formaggio spalmabile",5.26,Kg,22.46,"2023-05-13 11:18:02",Shelagh,Saffin,M,1955-07-28
+1090,Mack,Bastow,"Derivato Animale","Formaggio spalmabile",4.20,Kg,7.92,"2026-01-02 11:06:34",Coriss,Tunnick,Altro,1947-11-15
+1152,Mack,Bastow,Agricolo,"Formaggio caprino",2.00,Pezzi,33.02,"2023-09-17 17:13:42",Heather,Dumpleton,"Preferisco non specificare",1978-04-11
+65,Mack,Bastow,"Derivato Animale","Carne suina",1.42,Kg,29.49,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+144,Mack,Bastow,"Derivato Animale","Carne suina",4.00,Kg,83.08,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+465,Mack,Bastow,"Derivato Animale","Carne suina",1.42,Kg,29.49,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+544,Mack,Bastow,"Derivato Animale","Carne suina",4.00,Kg,83.08,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+765,Mack,Bastow,"Derivato Animale","Carne suina",1.42,Kg,29.49,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+844,Mack,Bastow,"Derivato Animale","Carne suina",4.00,Kg,83.08,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+358,Mack,Bastow,"Derivato Animale","Carne caprina",4.00,Kg,88.48,"2023-12-22 13:11:22",Taber,Chandlar,NULL,1992-06-09
+62,Mack,Bastow,"Derivato Animale",Lardo,4.00,Kg,103.96,"2025-05-17 09:17:27",Shandie,Llewellyn,Altro,1990-11-26
+177,Mack,Bastow,"Derivato Animale",Lardo,1.72,Kg,44.70,"2024-10-16 14:54:42",Warren,Tricker,M,NULL
+352,Mack,Bastow,"Derivato Animale",Lardo,0.75,Kg,19.49,"2024-10-28 08:02:12",Camile,Faulds,F,1984-12-17
+462,Mack,Bastow,"Derivato Animale",Lardo,4.00,Kg,103.96,"2025-05-17 09:17:27",Shandie,Llewellyn,Altro,1990-11-26
+577,Mack,Bastow,"Derivato Animale",Lardo,1.72,Kg,44.70,"2024-10-16 14:54:42",Warren,Tricker,M,NULL
+762,Mack,Bastow,"Derivato Animale",Lardo,4.00,Kg,103.96,"2025-05-17 16:17:27",Shandie,Llewellyn,Altro,1990-11-26
+877,Mack,Bastow,"Derivato Animale",Lardo,1.72,Kg,44.70,"2024-10-16 14:54:42",Warren,Tricker,M,NULL
+116,Mack,Bastow,"Derivato Animale","Hamburger con spezie",5.00,Pezzi,90.00,"2025-07-27 16:35:22",Bernard,Beastall,NULL,1989-06-23
+146,Mack,Bastow,"Derivato Animale","Hamburger con spezie",9.00,Pezzi,162.00,"2023-04-13 09:18:59",Starla,Sommerland,F,1957-03-07
+516,Mack,Bastow,"Derivato Animale","Hamburger con spezie",5.00,Pezzi,90.00,"2025-07-27 09:35:22",Bernard,Beastall,NULL,1989-06-23
+546,Mack,Bastow,"Derivato Animale","Hamburger con spezie",9.00,Pezzi,162.00,"2023-04-13 08:18:59",Starla,Sommerland,F,1957-03-07
+816,Mack,Bastow,"Derivato Animale","Hamburger con spezie",5.00,Pezzi,90.00,"2025-07-27 11:35:22",Bernard,Beastall,NULL,1989-06-23
+846,Mack,Bastow,"Derivato Animale","Hamburger con spezie",9.00,Pezzi,162.00,"2023-04-13 09:18:59",Starla,Sommerland,F,1957-03-07
+251,Mack,Bastow,"Derivato Animale","Dessert latte e cereali",5.00,L,50.00,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+651,Mack,Bastow,"Derivato Animale","Dessert latte e cereali",5.00,L,50.00,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+951,Mack,Bastow,"Derivato Animale","Dessert latte e cereali",5.00,L,50.00,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+327,Mack,Bastow,"Derivato Animale","Gelato al latte",1.43,L,25.74,"2024-07-18 17:15:07",Axel,Jozsika,M,1978-06-24
+341,Mack,Bastow,Agricolo,"Pasta ripiena vegetale",3.00,Kg,36.00,"2024-11-09 11:50:11",Damiano,Sharratt,NULL,NULL
+381,Mack,Bastow,Agricolo,"Pasta ripiena vegetale",4.83,Kg,57.96,"2024-10-19 09:01:11",Marian,Niemetz,NULL,1981-07-21
+1114,Mack,Bastow,Agricolo,"Pasta ripiena vegetale",5.47,Kg,25.71,"2024-11-15 13:34:09",Rabi,Roon,Altro,2004-09-28
+134,Mack,Bastow,Agricolo,"Vino bianco",4.38,L,119.71,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+329,Mack,Bastow,Agricolo,"Vino bianco",3.00,L,81.99,"2024-07-18 17:15:07",Axel,Jozsika,M,1978-06-24
+534,Mack,Bastow,Agricolo,"Vino bianco",4.38,L,119.71,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+834,Mack,Bastow,Agricolo,"Vino bianco",4.38,L,119.71,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+1002,Mack,Bastow,Agricolo,"Vino bianco",0.81,L,12.70,"2023-04-20 18:36:32",Wittie,Harring,"Preferisco non specificare",1978-02-23
+1091,Mack,Bastow,Agricolo,"Vino bianco",1.93,L,24.09,"2024-07-15 08:07:22",Osbourn,Blackey,"Preferisco non specificare",1952-05-20
+214,Mack,Bastow,Agricolo,"Verdure sott’aceto",3.63,Kg,23.78,"2025-10-12 11:48:22",Simonne,Brosi,F,1964-10-21
+614,Mack,Bastow,Agricolo,"Verdure sott’aceto",3.63,Kg,23.78,"2025-10-12 11:48:22",Simonne,Brosi,F,1964-10-21
+914,Mack,Bastow,Agricolo,"Verdure sott’aceto",3.63,Kg,23.78,"2025-10-12 11:48:22",Simonne,Brosi,F,1964-10-21
+64,Mack,Bastow,Agricolo,"Insalata mista",3.61,Kg,26.89,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+353,Mack,Bastow,Agricolo,"Insalata mista",2.00,Pezzi,14.90,"2024-10-28 08:02:12",Camile,Faulds,F,1984-12-17
+464,Mack,Bastow,Agricolo,"Insalata mista",3.61,Kg,26.89,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+764,Mack,Bastow,Agricolo,"Insalata mista",3.61,Kg,26.89,"2025-12-18 18:53:25",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+1093,Mack,Bastow,Agricolo,"Insalata mista",8.00,Pezzi,155.59,"2025-09-23 12:38:24",Randie,Genge,M,1999-02-25
+3,Mack,Bastow,Agricolo,Radicchio,1.46,Kg,39.67,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+237,Mack,Bastow,Agricolo,Radicchio,2.45,Kg,66.57,"2025-10-08 14:33:56",Aridatha,Duxfield,Altro,1953-03-05
+403,Mack,Bastow,Agricolo,Radicchio,1.46,Kg,39.67,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+637,Mack,Bastow,Agricolo,Radicchio,2.45,Kg,66.57,"2025-10-08 18:33:56",Aridatha,Duxfield,Altro,1953-03-05
+703,Mack,Bastow,Agricolo,Radicchio,1.46,Kg,39.67,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+937,Mack,Bastow,Agricolo,Radicchio,2.45,Kg,66.57,"2025-10-08 14:33:56",Aridatha,Duxfield,Altro,1953-03-05
+229,Lew,Rolstone,"Derivato Animale","Panna da cucina",2.13,L,53.02,"2026-01-28 08:44:22",Rheta,Lydiard,F,1979-08-10
+300,Lew,Rolstone,"Derivato Animale","Panna da cucina",3.00,L,74.67,"2025-02-20 19:43:21",Koo,Dring,M,1968-10-09
+629,Lew,Rolstone,"Derivato Animale","Panna da cucina",2.13,L,53.02,"2026-01-28 08:44:22",Rheta,Lydiard,F,1979-08-10
+700,Lew,Rolstone,"Derivato Animale","Panna da cucina",3.00,L,74.67,"2025-02-20 19:43:21",Koo,Dring,M,1968-10-09
+929,Lew,Rolstone,"Derivato Animale","Panna da cucina",2.13,L,53.02,"2026-01-28 08:44:22",Rheta,Lydiard,F,1979-08-10
+1000,Lew,Rolstone,"Derivato Animale","Panna da cucina",3.00,L,74.67,"2025-02-20 19:43:21",Koo,Dring,M,1968-10-09
+1026,Lew,Rolstone,"Derivato Animale","Panna da cucina",4.26,L,114.77,"2025-08-06 16:16:26",Franzen,Shilvock,Altro,1954-10-08
+1116,Lew,Rolstone,"Derivato Animale","Formaggio a pasta filata",8.74,Kg,19.97,"2023-05-02 16:40:34",Obidiah,Dyzart,Altro,1969-06-28
+1147,Lew,Rolstone,"Derivato Animale","Formaggio a pasta filata",6.44,Kg,19.72,"2025-08-22 17:37:26",Obidiah,Dyzart,Altro,1969-06-28
+1087,Lew,Rolstone,"Derivato Animale","Formaggio spalmabile",9.19,Kg,89.58,"2023-07-08 13:58:12",Stormie,Fante,"Preferisco non specificare",1950-12-23
+243,Lew,Rolstone,"Derivato Animale",Polpette,8.00,Pezzi,213.92,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+643,Lew,Rolstone,"Derivato Animale",Polpette,8.00,Pezzi,213.92,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+943,Lew,Rolstone,"Derivato Animale",Polpette,8.00,Pezzi,213.92,"2025-07-13 11:03:13",Starla,Sommerland,F,1957-03-07
+1111,Lew,Rolstone,"Derivato Animale",Polpette,7.00,Pezzi,162.80,"2025-07-22 17:24:09",Clayborn,Center,"Preferisco non specificare",NULL
+326,Lew,Rolstone,"Derivato Animale","Polpette con verdure",5.00,Pezzi,60.00,"2023-10-24 16:21:14",Van,Langrick,Altro,1942-11-27
+395,Lew,Rolstone,"Derivato Animale","Polpette con verdure",5.00,Pezzi,60.00,"2025-10-26 09:49:32",Rinaldo,Nolleth,M,1980-09-11
+298,Lew,Rolstone,"Derivato Animale","Brodo di carne",0.99,L,11.06,"2024-01-19 11:22:14",Tamiko,Garrould,NULL,1959-01-05
+304,Lew,Rolstone,"Derivato Animale","Brodo di carne",4.19,L,46.80,"2025-04-08 08:20:36",Koo,Dring,M,1968-10-09
+314,Lew,Rolstone,"Derivato Animale","Brodo di carne",3.00,L,33.51,"2026-04-04 13:02:33",Celestine,Capron,Altro,1987-12-31
+698,Lew,Rolstone,"Derivato Animale","Brodo di carne",0.99,L,11.06,"2024-01-19 11:22:14",Tamiko,Garrould,NULL,1959-01-05
+998,Lew,Rolstone,"Derivato Animale","Brodo di carne",0.99,L,11.06,"2024-01-19 11:22:14",Tamiko,Garrould,NULL,1959-01-05
+1168,Lew,Rolstone,"Derivato Animale","Cera d’api",1.91,Kg,18.45,"2025-06-05 14:03:19",Heather,Dumpleton,"Preferisco non specificare",1978-04-11
+55,Lew,Rolstone,"Derivato Animale","Bevanda a base latte",1.63,L,16.30,"2024-09-20 18:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+455,Lew,Rolstone,"Derivato Animale","Bevanda a base latte",1.63,L,16.30,"2024-09-20 19:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+755,Lew,Rolstone,"Derivato Animale","Bevanda a base latte",1.63,L,16.30,"2024-09-20 17:37:43",Cecilius,Ogan,"Preferisco non specificare",1981-02-17
+1024,Lew,Rolstone,Agricolo,"Farina integrale",5.00,Pezzi,95.98,"2024-04-23 19:40:21",Marcelline,Kill,"Preferisco non specificare",2002-08-26
+82,Lew,Rolstone,Agricolo,Pane,2.00,Pezzi,45.44,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+482,Lew,Rolstone,Agricolo,Pane,2.00,Pezzi,45.44,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+782,Lew,Rolstone,Agricolo,Pane,2.00,Pezzi,45.44,"2023-02-07 11:32:10",Axel,Jozsika,M,1978-06-24
+96,Lew,Rolstone,Agricolo,"Vino rosso",1.18,L,33.25,"2023-06-16 09:57:42",Harrietta,Aloshechkin,Altro,NULL
+496,Lew,Rolstone,Agricolo,"Vino rosso",1.18,L,33.25,"2023-06-16 13:57:42",Harrietta,Aloshechkin,Altro,NULL
+796,Lew,Rolstone,Agricolo,"Vino rosso",1.18,L,33.25,"2023-06-16 08:57:42",Harrietta,Aloshechkin,Altro,NULL
+212,Allan,Burnand,"Derivato Animale","Latte crudo",1.00,L,15.68,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+612,Allan,Burnand,"Derivato Animale","Latte crudo",1.00,L,15.68,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+912,Allan,Burnand,"Derivato Animale","Latte crudo",1.00,L,15.68,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+112,Allan,Burnand,"Derivato Animale","Panna da cucina",4.00,L,99.56,"2026-02-19 13:13:20",Marian,Niemetz,NULL,1981-07-21
+394,Allan,Burnand,"Derivato Animale","Panna da cucina",4.23,L,105.28,"2025-10-26 09:49:32",Rinaldo,Nolleth,M,1980-09-11
+512,Allan,Burnand,"Derivato Animale","Panna da cucina",4.00,L,99.56,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+812,Allan,Burnand,"Derivato Animale","Panna da cucina",4.00,L,99.56,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+139,Allan,Burnand,"Derivato Animale","Yogurt bianco",1.50,Kg,31.79,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+539,Allan,Burnand,"Derivato Animale","Yogurt bianco",1.50,Kg,31.79,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+839,Allan,Burnand,"Derivato Animale","Yogurt bianco",1.50,Kg,31.79,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+1138,Allan,Burnand,"Derivato Animale","Yogurt bianco",2.64,L,45.07,"2026-04-08 09:00:46",Franzen,Shilvock,Altro,1954-10-08
+1051,Allan,Burnand,"Derivato Animale","Ricotta stagionata",7.10,Kg,24.12,"2026-03-10 11:22:55",Lyon,Arrault,M,NULL
+205,Allan,Burnand,"Derivato Animale","Formaggio al pepe",3.34,Kg,83.50,"2023-06-17 10:47:45",Damiano,Sharratt,NULL,NULL
+605,Allan,Burnand,"Derivato Animale","Formaggio al pepe",3.34,Kg,83.50,"2023-06-17 10:47:45",Damiano,Sharratt,NULL,NULL
+905,Allan,Burnand,"Derivato Animale","Formaggio al pepe",3.34,Kg,83.50,"2023-06-17 10:47:45",Damiano,Sharratt,NULL,NULL
+11,Allan,Burnand,"Derivato Animale","Formaggio alle olive",3.95,Kg,94.80,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+411,Allan,Burnand,"Derivato Animale","Formaggio alle olive",3.95,Kg,94.80,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+711,Allan,Burnand,"Derivato Animale","Formaggio alle olive",3.95,Kg,94.80,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+285,Allan,Burnand,"Derivato Animale",Salsiccia,4.50,Kg,50.94,"2025-05-25 16:53:58",Allx,Aingel,M,1956-10-29
+685,Allan,Burnand,"Derivato Animale",Salsiccia,4.50,Kg,50.94,"2025-05-25 16:53:58",Allx,Aingel,M,1956-10-29
+985,Allan,Burnand,"Derivato Animale",Salsiccia,4.50,Kg,50.94,"2025-05-25 10:53:58",Allx,Aingel,M,1956-10-29
+208,Allan,Burnand,"Derivato Animale","Formaggio fuso",2.00,Kg,49.62,"2025-11-17 12:38:33",Lizzie,Beeswing,Altro,1970-03-02
+608,Allan,Burnand,"Derivato Animale","Formaggio fuso",2.00,Kg,49.62,"2025-11-17 15:38:33",Lizzie,Beeswing,Altro,1970-03-02
+908,Allan,Burnand,"Derivato Animale","Formaggio fuso",2.00,Kg,49.62,"2025-11-17 15:38:33",Lizzie,Beeswing,Altro,1970-03-02
+240,Allan,Burnand,"Derivato Animale","Gelato al miele",2.11,L,52.75,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+640,Allan,Burnand,"Derivato Animale","Gelato al miele",2.11,L,52.75,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+940,Allan,Burnand,"Derivato Animale","Gelato al miele",2.11,L,52.75,"2025-07-13 11:03:13",Starla,Sommerland,F,1957-03-07
+1014,Allan,Burnand,Agricolo,"Farina di mais",9.26,Kg,15.04,"2024-09-24 13:44:41",Rebeka,Gawn,"Preferisco non specificare",1947-10-02
+10,Allan,Burnand,Agricolo,Biscotti,5.00,Pezzi,19.25,"2025-02-05 10:50:19",Collin,Spenley,M,1998-06-21
+297,Allan,Burnand,Agricolo,Biscotti,3.00,Pezzi,11.55,"2024-02-16 12:18:23",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+354,Allan,Burnand,Agricolo,Biscotti,5.00,Pezzi,19.25,"2024-10-28 08:02:12",Camile,Faulds,F,1984-12-17
+410,Allan,Burnand,Agricolo,Biscotti,5.00,Pezzi,19.25,"2025-02-05 15:50:19",Collin,Spenley,M,1998-06-21
+697,Allan,Burnand,Agricolo,Biscotti,3.00,Pezzi,11.55,"2024-02-16 12:18:23",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+710,Allan,Burnand,Agricolo,Biscotti,5.00,Pezzi,19.25,"2025-02-05 18:50:19",Collin,Spenley,M,1998-06-21
+997,Allan,Burnand,Agricolo,Biscotti,3.00,Pezzi,11.55,"2024-02-16 12:18:23",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+1078,Allan,Burnand,Agricolo,"Olio con erbe aromatiche",1.67,L,42.18,"2026-03-01 19:25:10",Caesar,Shewon,M,2003-09-12
+1190,Allan,Burnand,Agricolo,"Olio con erbe aromatiche",3.32,L,87.72,"2025-05-11 11:29:30",Heather,Dumpleton,"Preferisco non specificare",1978-04-11
+361,Allan,Burnand,Agricolo,"Vino rosso",4.00,L,112.72,"2026-01-11 19:33:59",Antonina,Rooksby,Altro,1959-08-01
+1096,Allan,Burnand,Agricolo,"Vino rosso",1.00,Pezzi,17.38,"2025-11-20 13:53:56",Sharona,Woodhams,Altro,1949-12-26
+71,Allan,Burnand,Agricolo,"Succo di frutta",3.19,L,19.08,"2025-03-07 09:57:41",Fremont,Backson,M,NULL
+172,Allan,Burnand,Agricolo,"Succo di frutta",2.96,L,17.70,"2025-08-19 19:46:45",Koral,Rebanks,NULL,1993-09-11
+471,Allan,Burnand,Agricolo,"Succo di frutta",3.19,L,19.08,"2025-03-07 09:57:41",Fremont,Backson,M,NULL
+572,Allan,Burnand,Agricolo,"Succo di frutta",2.96,L,17.70,"2025-08-19 19:46:45",Koral,Rebanks,NULL,1993-09-11
+771,Allan,Burnand,Agricolo,"Succo di frutta",3.19,L,19.08,"2025-03-07 09:57:41",Fremont,Backson,M,NULL
+872,Allan,Burnand,Agricolo,"Succo di frutta",2.96,L,17.70,"2025-08-19 19:46:45",Koral,Rebanks,NULL,1993-09-11
+1175,Allan,Burnand,Agricolo,"Succo di frutta",1.31,L,25.13,"2023-05-25 19:54:01",Coriss,Tunnick,Altro,1947-11-15
+350,Allan,Burnand,Agricolo,"Conserva di pomodoro",4.11,L,59.92,"2025-08-18 11:58:15",Maximo,Gannaway,M,NULL
+321,Allan,Burnand,Agricolo,"Verdure fresche",3.00,Kg,29.67,"2024-08-15 10:46:24",Fee,Tabary,F,NULL
+1133,Allan,Burnand,Agricolo,"Verdure fresche",142.35,Kg,1005.70,"2023-04-14 12:13:11",Marcelline,Kill,"Preferisco non specificare",2002-08-26
+136,Allan,Burnand,Agricolo,Lattuga,5.00,Kg,144.40,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+536,Allan,Burnand,Agricolo,Lattuga,5.00,Kg,144.40,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+836,Allan,Burnand,Agricolo,Lattuga,5.00,Kg,144.40,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+203,Allan,Burnand,Agricolo,"Frutta macedonia pronta",1.72,Kg,44.65,"2025-02-25 18:51:20",Collin,Spenley,M,1998-06-21
+603,Allan,Burnand,Agricolo,"Frutta macedonia pronta",1.72,Pezzi,44.65,"2025-02-25 14:51:20",Collin,Spenley,M,1998-06-21
+903,Allan,Burnand,Agricolo,"Frutta macedonia pronta",1.72,Pezzi,44.65,"2025-02-25 19:51:20",Collin,Spenley,M,1998-06-21
+61,Allan,Burnand,Agricolo,Ciliegie,4.00,Pezzi,41.88,"2025-05-17 09:17:27",Shandie,Llewellyn,Altro,1990-11-26
+461,Allan,Burnand,Agricolo,Ciliegie,4.00,Kg,41.88,"2025-05-17 09:17:27",Shandie,Llewellyn,Altro,1990-11-26
+761,Allan,Burnand,Agricolo,Ciliegie,4.00,Kg,41.88,"2025-05-17 16:17:27",Shandie,Llewellyn,Altro,1990-11-26
+1166,Bone,Akehurst,"Derivato Animale","Yogurt alla vaniglia",5.83,Kg,35.52,"2025-07-09 14:26:59",Ogden,Portail,M,1992-11-09
+97,Bone,Akehurst,"Derivato Animale","Uova pastorizzate",6.00,Pezzi,141.12,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+497,Bone,Akehurst,"Derivato Animale","Uova pastorizzate",6.00,Pezzi,141.12,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+797,Bone,Akehurst,"Derivato Animale","Uova pastorizzate",6.00,Pezzi,141.12,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+16,Bone,Akehurst,"Derivato Animale","Carne macinata",0.29,Kg,5.40,"2025-06-06 09:33:27",Andriette,Cardero,NULL,1964-08-10
+416,Bone,Akehurst,"Derivato Animale","Carne macinata",0.29,Kg,5.40,"2025-06-06 15:33:27",Andriette,Cardero,NULL,1964-08-10
+716,Bone,Akehurst,"Derivato Animale","Carne macinata",0.29,Kg,5.40,"2025-06-06 18:33:27",Andriette,Cardero,NULL,1964-08-10
+1163,Bone,Akehurst,"Derivato Animale","Carne macinata",129.21,Kg,1206.52,"2023-09-10 09:21:45",Gabriel,Draycott,M,1973-08-20
+274,Bone,Akehurst,"Derivato Animale","Crema di formaggio alle erbe",2.00,Kg,36.00,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+674,Bone,Akehurst,"Derivato Animale","Crema di formaggio alle erbe",2.00,Kg,36.00,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+974,Bone,Akehurst,"Derivato Animale","Crema di formaggio alle erbe",2.00,Kg,36.00,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+1115,Bone,Akehurst,"Derivato Animale","Crema di formaggio alle erbe",5.57,Kg,41.73,"2024-01-21 17:06:44",Sharona,Woodhams,Altro,1949-12-26
+267,Bone,Akehurst,Agricolo,"Dolci da forno",10.00,Pezzi,267.20,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+667,Bone,Akehurst,Agricolo,"Dolci da forno",10.00,Pezzi,267.20,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+967,Bone,Akehurst,Agricolo,"Dolci da forno",10.00,Pezzi,267.20,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+1196,Bone,Akehurst,Agricolo,"Dolci da forno",3.00,Pezzi,10.63,"2023-05-03 12:51:20",Verney,Artus,M,1974-03-28
+365,Bone,Akehurst,Agricolo,Melanzane,2.47,Kg,13.02,"2026-01-11 19:33:59",Antonina,Rooksby,Altro,1959-08-01
+372,Bone,Akehurst,Agricolo,Melanzane,4.00,Kg,21.08,"2023-09-12 13:28:03",Willa,Kilner,Altro,1972-01-24
+21,Bone,Akehurst,Agricolo,Ciliegie,2.62,Kg,27.43,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+421,Bone,Akehurst,Agricolo,Ciliegie,2.62,Kg,27.43,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+721,Bone,Akehurst,Agricolo,Ciliegie,2.62,Kg,27.43,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+30,Jordon,Luciano,"Derivato Animale","Formaggio semistagionato",2.97,Kg,12.30,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+430,Jordon,Luciano,"Derivato Animale","Formaggio semistagionato",2.97,Kg,12.30,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+730,Jordon,Luciano,"Derivato Animale","Formaggio semistagionato",2.97,Kg,12.30,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+98,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",1.00,Kg,26.00,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+171,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",3.00,Kg,78.00,"2026-04-13 16:58:31",Tamar,Colthard,"Preferisco non specificare",NULL
+281,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",1.28,Kg,33.28,"2025-09-18 14:36:15",Taber,Chandlar,NULL,1992-06-09
+498,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",1.00,Kg,26.00,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+571,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",3.00,Kg,78.00,"2026-04-13 16:58:31",Tamar,Colthard,"Preferisco non specificare",NULL
+681,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",1.28,Kg,33.28,"2025-09-18 09:36:15",Taber,Chandlar,NULL,1992-06-09
+798,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",1.00,Kg,26.00,"2023-08-22 12:21:23",Ruddie,Butterwick,M,1969-11-09
+871,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",3.00,Kg,78.00,"2026-04-13 16:58:31",Tamar,Colthard,"Preferisco non specificare",NULL
+981,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",1.28,Kg,33.28,"2025-09-18 10:36:15",Taber,Chandlar,NULL,1992-06-09
+1169,Jordon,Luciano,"Derivato Animale","Formaggio alle noci",6.57,Kg,30.86,"2024-11-06 18:13:19",Silvio,Idiens,"Preferisco non specificare",1938-04-02
+255,Jordon,Luciano,"Derivato Animale","Carne con erbe aromatiche",4.77,Kg,200.34,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+396,Jordon,Luciano,"Derivato Animale","Carne con erbe aromatiche",2.00,Kg,84.00,"2025-10-26 09:49:32",Rinaldo,Nolleth,M,1980-09-11
+655,Jordon,Luciano,"Derivato Animale","Carne con erbe aromatiche",4.77,Kg,200.34,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+955,Jordon,Luciano,"Derivato Animale","Carne con erbe aromatiche",4.77,Kg,200.34,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+1009,Jordon,Luciano,"Derivato Animale","Salsiccia al vino rosso",6.00,Pezzi,142.59,"2024-06-10 13:43:10",Faustina,Casemore,NULL,1988-06-27
+1058,Jordon,Luciano,"Derivato Animale","Salsiccia al vino rosso",5.00,Pezzi,108.57,"2024-06-12 12:12:43",Sileas,Newcombe,F,1941-11-09
+275,Jordon,Luciano,"Derivato Animale",Hamburger,9.00,Pezzi,96.39,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+675,Jordon,Luciano,"Derivato Animale",Hamburger,9.00,Pezzi,96.39,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+975,Jordon,Luciano,"Derivato Animale",Hamburger,9.00,Pezzi,96.39,"2023-07-21 08:26:34",Willa,Kilner,Altro,1972-01-24
+73,Jordon,Luciano,Agricolo,Grano,4.49,Kg,36.82,"2025-05-26 11:49:03",Rheta,Lydiard,F,1979-08-10
+241,Jordon,Luciano,Agricolo,Grano,3.71,Kg,30.42,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+473,Jordon,Luciano,Agricolo,Grano,4.49,Kg,36.82,"2025-05-26 09:49:03",Rheta,Lydiard,F,1979-08-10
+641,Jordon,Luciano,Agricolo,Grano,3.71,Kg,30.42,"2025-07-13 19:03:13",Starla,Sommerland,F,1957-03-07
+773,Jordon,Luciano,Agricolo,Grano,4.49,Kg,36.82,"2025-05-26 11:49:03",Rheta,Lydiard,F,1979-08-10
+941,Jordon,Luciano,Agricolo,Grano,3.71,Kg,30.42,"2025-07-13 11:03:13",Starla,Sommerland,F,1957-03-07
+1164,Jordon,Luciano,Agricolo,"Pasta al pomodoro",8.60,Kg,17.23,"2024-02-07 17:44:53",Darn,Shurville,Altro,1981-10-07
+217,Jordon,Luciano,Agricolo,"Dolci da forno",2.00,Pezzi,53.44,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+617,Jordon,Luciano,Agricolo,"Dolci da forno",2.00,Pezzi,53.44,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+917,Jordon,Luciano,Agricolo,"Dolci da forno",2.00,Pezzi,53.44,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+259,Jordon,Luciano,Agricolo,"Dolci con frutta",4.00,Pezzi,80.00,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+659,Jordon,Luciano,Agricolo,"Dolci con frutta",4.00,Pezzi,80.00,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+959,Jordon,Luciano,Agricolo,"Dolci con frutta",4.00,Pezzi,80.00,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+1180,Jordon,Luciano,Agricolo,"Dolci con frutta",3.00,Pezzi,37.21,"2024-01-10 10:01:06",Cthrine,Clowton,F,2002-03-22
+27,Jordon,Luciano,Agricolo,Peperoni,4.92,Kg,108.24,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+427,Jordon,Luciano,Agricolo,Peperoni,4.92,Kg,108.24,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+727,Jordon,Luciano,Agricolo,Peperoni,4.92,Kg,108.24,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+1003,Jordon,Luciano,Agricolo,Peperoni,176.35,Kg,1105.15,"2024-05-20 16:49:07",Sonny,Grocott,M,1992-05-06
+1032,Jordon,Luciano,Agricolo,Peperoni,26.69,Kg,219.67,"2024-02-05 18:10:05",Douglas,Tebbet,M,1977-02-15
+184,Jordon,Luciano,Agricolo,"Frutta essiccata",5.00,Kg,147.50,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+584,Jordon,Luciano,Agricolo,"Frutta essiccata",5.00,Kg,147.50,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+884,Jordon,Luciano,Agricolo,"Frutta essiccata",5.00,Kg,147.50,"2025-11-24 17:12:25",Hogan,Roscrigg,M,1961-09-09
+1025,Jordon,Luciano,Agricolo,Agrumi,7.00,Pezzi,62.11,"2025-06-20 16:47:28",Dorita,Nowak,Altro,1993-06-28
+238,Jordon,Luciano,Agricolo,"Snack di frutta",5.00,Kg,78.10,"2023-07-11 17:18:14",Rheta,Lydiard,F,1979-08-10
+359,Jordon,Luciano,Agricolo,"Snack di frutta",2.32,Pezzi,36.24,"2023-12-22 13:11:22",Taber,Chandlar,NULL,1992-06-09
+638,Jordon,Luciano,Agricolo,"Snack di frutta",5.00,Pezzi,78.10,"2023-07-11 17:18:14",Rheta,Lydiard,F,1979-08-10
+938,Jordon,Luciano,Agricolo,"Snack di frutta",5.00,Pezzi,78.10,"2023-07-11 17:18:14",Rheta,Lydiard,F,1979-08-10
+310,Raine,Leport,"Derivato Animale","Latte crudo",1.79,L,28.07,"2024-05-29 10:00:42",Gwenore,Haslock(e),NULL,NULL
+1085,Raine,Leport,"Derivato Animale","Latte crudo",4.97,L,82.03,"2024-09-07 16:27:02",Silvio,Idiens,"Preferisco non specificare",1938-04-02
+235,Raine,Leport,"Derivato Animale","Yogurt alla frutta",5.00,Kg,12.50,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+635,Raine,Leport,"Derivato Animale","Yogurt alla frutta",5.00,Kg,12.50,"2023-10-05 14:34:48",Antone,Ingman,Altro,1949-08-22
+935,Raine,Leport,"Derivato Animale","Yogurt alla frutta",5.00,Kg,12.50,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+268,Raine,Leport,"Derivato Animale","Yogurt alla vaniglia",4.84,Kg,15.49,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+668,Raine,Leport,"Derivato Animale","Yogurt alla vaniglia",4.84,Kg,15.49,"2024-07-21 17:11:30",Antone,Ingman,Altro,1949-08-22
+968,Raine,Leport,"Derivato Animale","Yogurt alla vaniglia",4.84,Kg,15.49,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+318,Raine,Leport,"Derivato Animale","Formaggio fresco",3.60,Kg,26.53,"2026-03-27 16:31:02",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+80,Raine,Leport,"Derivato Animale","Formaggio alle olive",2.33,Kg,55.92,"2025-12-22 09:00:47",Elena,Aubry,F,1944-07-27
+174,Raine,Leport,"Derivato Animale","Formaggio alle olive",2.65,Kg,63.60,"2024-01-03 10:45:53",Sauncho,Dmtrovic,M,1995-02-22
+333,Raine,Leport,"Derivato Animale","Formaggio alle olive",4.53,Kg,108.72,"2023-09-15 15:45:47",Else,Dunnett,Altro,1945-01-05
+480,Raine,Leport,"Derivato Animale","Formaggio alle olive",2.33,Kg,55.92,"2025-12-22 15:00:47",Elena,Aubry,F,1944-07-27
+574,Raine,Leport,"Derivato Animale","Formaggio alle olive",2.65,Kg,63.60,"2024-01-03 10:45:53",Sauncho,Dmtrovic,M,1995-02-22
+780,Raine,Leport,"Derivato Animale","Formaggio alle olive",2.33,Kg,55.92,"2025-12-22 15:00:47",Elena,Aubry,F,1944-07-27
+874,Raine,Leport,"Derivato Animale","Formaggio alle olive",2.65,Kg,63.60,"2024-01-03 10:45:53",Sauncho,Dmtrovic,M,1995-02-22
+109,Raine,Leport,Agricolo,"Formaggio caprino",5.00,Kg,54.45,"2024-11-08 15:16:56",Damiano,Sharratt,NULL,NULL
+266,Raine,Leport,Agricolo,"Formaggio caprino",0.21,Kg,2.29,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+509,Raine,Leport,Agricolo,"Formaggio caprino",5.00,Kg,54.45,"2024-11-08 14:16:56",Damiano,Sharratt,NULL,NULL
+666,Raine,Leport,Agricolo,"Formaggio caprino",0.21,Kg,2.29,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+809,Raine,Leport,Agricolo,"Formaggio caprino",5.00,Kg,54.45,"2024-11-08 11:16:56",Damiano,Sharratt,NULL,NULL
+966,Raine,Leport,Agricolo,"Formaggio caprino",0.21,Kg,2.29,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+1068,Raine,Leport,Agricolo,"Formaggio caprino",4.79,Kg,17.42,"2024-05-26 12:39:25",Matthias,Effnert,"Preferisco non specificare",1960-06-25
+1059,Raine,Leport,Agricolo,"Formaggio ovino",5.00,Pezzi,120.22,"2025-02-01 17:54:11",Dolley,Baglow,M,NULL
+1160,Raine,Leport,Agricolo,"Formaggio ovino",5.00,Pezzi,44.54,"2023-07-26 11:00:24",Sharona,Woodhams,Altro,1949-12-26
+8,Raine,Leport,"Derivato Animale","Uova fresche",4.00,Pezzi,17.00,"2024-06-20 12:28:37",Emilie,Arton,F,NULL
+161,Raine,Leport,"Derivato Animale","Uova fresche",5.00,Pezzi,21.25,"2023-04-06 18:57:31",Delia,Hirjak,Altro,1995-09-21
+408,Raine,Leport,"Derivato Animale","Uova fresche",4.00,Pezzi,17.00,"2024-06-20 12:28:37",Emilie,Arton,F,NULL
+561,Raine,Leport,"Derivato Animale","Uova fresche",5.00,Pezzi,21.25,"2023-04-06 19:57:31",Delia,Hirjak,Altro,1995-09-21
+708,Raine,Leport,"Derivato Animale","Uova fresche",4.00,Pezzi,17.00,"2024-06-20 12:28:37",Emilie,Arton,F,NULL
+861,Raine,Leport,"Derivato Animale","Uova fresche",5.00,Pezzi,21.25,"2023-04-06 11:57:31",Delia,Hirjak,Altro,1995-09-21
+232,Raine,Leport,"Derivato Animale","Prosciutto cotto",3.00,Kg,27.69,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+632,Raine,Leport,"Derivato Animale","Prosciutto cotto",3.00,Kg,27.69,"2023-10-05 14:34:48",Antone,Ingman,Altro,1949-08-22
+932,Raine,Leport,"Derivato Animale","Prosciutto cotto",3.00,Kg,27.69,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+41,Raine,Leport,"Derivato Animale",Bresaola,3.38,Kg,46.91,"2025-09-10 13:37:25",Lily,Axford,Altro,1994-03-27
+441,Raine,Leport,"Derivato Animale",Bresaola,3.38,Kg,46.91,"2025-09-10 13:37:25",Lily,Axford,Altro,1994-03-27
+741,Raine,Leport,"Derivato Animale",Bresaola,3.38,Kg,46.91,"2025-09-10 13:37:25",Lily,Axford,Altro,1994-03-27
+137,Raine,Leport,"Derivato Animale",Hamburger,10.00,Pezzi,107.10,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+141,Raine,Leport,"Derivato Animale",Hamburger,2.00,Pezzi,21.42,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+537,Raine,Leport,"Derivato Animale",Hamburger,10.00,Pezzi,107.10,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+541,Raine,Leport,"Derivato Animale",Hamburger,2.00,Pezzi,21.42,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+837,Raine,Leport,"Derivato Animale",Hamburger,10.00,Pezzi,107.10,"2025-09-02 19:49:58",Finley,Grugerr,M,1992-08-21
+841,Raine,Leport,"Derivato Animale",Hamburger,2.00,Pezzi,21.42,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+164,Raine,Leport,"Derivato Animale","Polpette con spezie",7.00,Pezzi,105.00,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+564,Raine,Leport,"Derivato Animale","Polpette con spezie",7.00,Pezzi,105.00,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+864,Raine,Leport,"Derivato Animale","Polpette con spezie",7.00,Pezzi,105.00,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+260,Raine,Leport,"Derivato Animale","Latte in polvere",2.13,L,46.54,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+660,Raine,Leport,"Derivato Animale","Latte in polvere",2.13,L,46.54,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+960,Raine,Leport,"Derivato Animale","Latte in polvere",2.13,L,46.54,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+29,Raine,Leport,"Derivato Animale","Formaggio fuso",4.27,Kg,105.94,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+83,Raine,Leport,"Derivato Animale","Formaggio fuso",4.65,Kg,115.37,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+120,Raine,Leport,"Derivato Animale","Formaggio fuso",3.00,Kg,74.43,"2024-06-12 18:32:52",Ursula,Askam,F,1950-06-12
+429,Raine,Leport,"Derivato Animale","Formaggio fuso",4.27,Kg,105.94,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+483,Raine,Leport,"Derivato Animale","Formaggio fuso",4.65,Kg,115.37,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+520,Raine,Leport,"Derivato Animale","Formaggio fuso",3.00,Kg,74.43,"2024-06-12 14:32:52",Ursula,Askam,F,1950-06-12
+729,Raine,Leport,"Derivato Animale","Formaggio fuso",4.27,Kg,105.94,"2024-07-03 14:10:20",Simonne,Brosi,F,1964-10-21
+783,Raine,Leport,"Derivato Animale","Formaggio fuso",4.65,Kg,115.37,"2023-02-07 11:32:10",Axel,Jozsika,M,1978-06-24
+820,Raine,Leport,"Derivato Animale","Formaggio fuso",3.00,Kg,74.43,"2024-06-12 12:32:52",Ursula,Askam,F,1950-06-12
+1060,Raine,Leport,"Derivato Animale","Formaggio fuso",5.38,Kg,23.92,"2025-01-15 14:40:48",Cthrine,Clowton,F,2002-03-22
+1104,Raine,Leport,"Derivato Animale","Latte al cacao",2.12,L,46.62,"2023-09-24 18:05:34",Norri,Petters,M,1960-03-26
+49,Raine,Leport,"Derivato Animale","Latte alla vaniglia",0.94,L,5.64,"2024-04-12 09:53:42",Paco,Keighly,NULL,1942-02-05
+295,Raine,Leport,"Derivato Animale","Latte alla vaniglia",4.89,L,29.34,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+449,Raine,Leport,"Derivato Animale","Latte alla vaniglia",0.94,L,5.64,"2024-04-12 13:53:42",Paco,Keighly,NULL,1942-02-05
+695,Raine,Leport,"Derivato Animale","Latte alla vaniglia",4.89,L,29.34,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+749,Raine,Leport,"Derivato Animale","Latte alla vaniglia",0.94,L,5.64,"2024-04-12 13:53:42",Paco,Keighly,NULL,1942-02-05
+995,Raine,Leport,"Derivato Animale","Latte alla vaniglia",4.89,L,29.34,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+1029,Raine,Leport,"Derivato Animale","Latte alla vaniglia",4.92,L,125.81,"2025-11-22 15:05:42",Araldo,Heineke,M,1959-02-09
+1112,Raine,Leport,Agricolo,"Pasta agli spinaci",4.10,Kg,28.29,"2024-11-20 11:21:17",Valaria,Grebner,F,1984-07-13
+1127,Raine,Leport,Agricolo,"Dolci da forno",9.00,Pezzi,162.56,"2024-10-15 17:14:08",Winny,Batchelar,Altro,1994-08-28
+33,Raine,Leport,Agricolo,"Vino rosato",3.05,L,47.09,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+433,Raine,Leport,Agricolo,"Vino rosato",3.05,L,47.09,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+733,Raine,Leport,Agricolo,"Vino rosato",3.05,L,47.09,"2023-08-17 09:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+315,Raine,Leport,Agricolo,"Salsa vegetale",4.12,L,50.31,"2026-04-04 13:02:33",Celestine,Capron,Altro,1987-12-31
+1072,Raine,Leport,Agricolo,"Salsa vegetale",2.34,L,62.20,"2023-08-06 13:31:53",Stormie,Fante,"Preferisco non specificare",1950-12-23
+175,Raine,Leport,"Derivato Animale","Verdure grigliate",0.77,Kg,8.02,"2024-01-03 10:45:53",Sauncho,Dmtrovic,M,1995-02-22
+305,Raine,Leport,"Derivato Animale","Verdure grigliate",4.36,Kg,45.39,"2024-07-14 15:08:07",Elena,Aubry,F,1944-07-27
+575,Raine,Leport,"Derivato Animale","Verdure grigliate",0.77,Kg,8.02,"2024-01-03 10:45:53",Sauncho,Dmtrovic,M,1995-02-22
+875,Raine,Leport,"Derivato Animale","Verdure grigliate",0.77,Kg,8.02,"2024-01-03 10:45:53",Sauncho,Dmtrovic,M,1995-02-22
+40,Raine,Leport,Agricolo,Lattuga,2.38,Kg,68.73,"2025-09-10 13:37:25",Lily,Axford,Altro,1994-03-27
+440,Raine,Leport,Agricolo,Lattuga,2.38,Kg,68.73,"2025-09-10 13:37:25",Lily,Axford,Altro,1994-03-27
+740,Raine,Leport,Agricolo,Lattuga,2.38,Kg,68.73,"2025-09-10 13:37:25",Lily,Axford,Altro,1994-03-27
+1028,Raine,Leport,Agricolo,Pere,108.25,Kg,278.46,"2025-06-16 11:58:57",Coriss,Tunnick,Altro,1947-11-15
+1089,Raine,Leport,Agricolo,Pere,100.98,Kg,373.80,"2024-11-02 14:36:31",Myca,Diemer,Altro,1944-07-10
+178,Benji,Farran,"Derivato Animale","Ricotta fresca",0.57,Kg,5.71,"2024-08-10 12:48:09",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+334,Benji,Farran,"Derivato Animale","Ricotta fresca",3.47,Kg,34.73,"2023-09-15 15:45:47",Else,Dunnett,Altro,1945-01-05
+578,Benji,Farran,"Derivato Animale","Ricotta fresca",0.57,Kg,5.71,"2024-08-10 12:48:09",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+878,Benji,Farran,"Derivato Animale","Ricotta fresca",0.57,Kg,5.71,"2024-08-10 12:48:09",Mohandas,Congdon,"Preferisco non specificare",1954-06-17
+54,Benji,Farran,"Derivato Animale","Formaggio semistagionato",4.76,Kg,19.71,"2025-02-07 18:00:48",Rheta,Lydiard,F,1979-08-10
+299,Benji,Farran,"Derivato Animale","Formaggio semistagionato",3.00,Kg,12.42,"2025-02-20 19:43:21",Koo,Dring,M,1968-10-09
+454,Benji,Farran,"Derivato Animale","Formaggio semistagionato",4.76,Kg,19.71,"2025-02-07 13:00:48",Rheta,Lydiard,F,1979-08-10
+699,Benji,Farran,"Derivato Animale","Formaggio semistagionato",3.00,Kg,12.42,"2025-02-20 19:43:21",Koo,Dring,M,1968-10-09
+754,Benji,Farran,"Derivato Animale","Formaggio semistagionato",4.76,Kg,19.71,"2025-02-07 16:00:48",Rheta,Lydiard,F,1979-08-10
+999,Benji,Farran,"Derivato Animale","Formaggio semistagionato",3.00,Kg,12.42,"2025-02-20 19:43:21",Koo,Dring,M,1968-10-09
+360,Benji,Farran,"Derivato Animale","Formaggio al miele",1.33,Kg,37.24,"2023-12-22 13:11:22",Taber,Chandlar,NULL,1992-06-09
+338,Benji,Farran,"Derivato Animale",Tuorlo,5.00,Kg,149.05,"2023-07-18 16:45:20",Chalmers,Tooze,M,1997-09-27
+153,Benji,Farran,"Derivato Animale","Prosciutto crudo",0.56,Kg,16.32,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+553,Benji,Farran,"Derivato Animale","Prosciutto crudo",0.56,Kg,16.32,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+853,Benji,Farran,"Derivato Animale","Prosciutto crudo",0.56,Kg,16.32,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+337,Benji,Farran,"Derivato Animale","Miele di acacia",4.42,Kg,129.37,"2023-07-18 16:45:20",Chalmers,Tooze,M,1997-09-27
+258,Benji,Farran,"Derivato Animale","Latte al cacao",0.46,L,2.30,"2024-05-30 14:06:47",Allx,Aingel,M,1956-10-29
+364,Benji,Farran,"Derivato Animale","Latte al cacao",3.00,L,15.00,"2026-01-11 19:33:59",Antonina,Rooksby,Altro,1959-08-01
+658,Benji,Farran,"Derivato Animale","Latte al cacao",0.46,L,2.30,"2024-05-30 12:06:47",Allx,Aingel,M,1956-10-29
+958,Benji,Farran,"Derivato Animale","Latte al cacao",0.46,L,2.30,"2024-05-30 14:06:47",Allx,Aingel,M,1956-10-29
+1161,Benji,Farran,Agricolo,Grano,35.66,Kg,226.22,"2024-01-09 10:52:24",Wittie,Harring,"Preferisco non specificare",1978-02-23
+81,Benji,Farran,Agricolo,"Succo di frutta",3.67,L,21.95,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+154,Benji,Farran,Agricolo,"Succo di frutta",2.36,L,14.11,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+481,Benji,Farran,Agricolo,"Succo di frutta",3.67,L,21.95,"2023-02-07 17:32:10",Axel,Jozsika,M,1978-06-24
+554,Benji,Farran,Agricolo,"Succo di frutta",2.36,L,14.11,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+781,Benji,Farran,Agricolo,"Succo di frutta",3.67,L,21.95,"2023-02-07 11:32:10",Axel,Jozsika,M,1978-06-24
+854,Benji,Farran,Agricolo,"Succo di frutta",2.36,L,14.11,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+1188,Benji,Farran,Agricolo,"Succo di frutta",0.98,L,8.26,"2025-07-12 09:23:49",Sileas,Newcombe,F,1941-11-09
+201,Benji,Farran,Agricolo,"Confettura con spezie",3.00,Kg,24.00,"2025-02-25 18:51:20",Collin,Spenley,M,1998-06-21
+601,Benji,Farran,Agricolo,"Confettura con spezie",3.00,Kg,24.00,"2025-02-25 14:51:20",Collin,Spenley,M,1998-06-21
+901,Benji,Farran,Agricolo,"Confettura con spezie",3.00,Kg,24.00,"2025-02-25 19:51:20",Collin,Spenley,M,1998-06-21
+265,Benji,Farran,Agricolo,"Conserva di pomodoro",3.22,L,46.95,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+296,Benji,Farran,Agricolo,"Conserva di pomodoro",3.54,L,51.61,"2023-10-22 15:45:54",Emilie,Arton,F,NULL
+665,Benji,Farran,Agricolo,"Conserva di pomodoro",3.22,L,46.95,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+696,Benji,Farran,Agricolo,"Conserva di pomodoro",3.54,L,51.61,"2023-10-22 13:45:54",Emilie,Arton,F,NULL
+965,Benji,Farran,Agricolo,"Conserva di pomodoro",3.22,L,46.95,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+996,Benji,Farran,Agricolo,"Conserva di pomodoro",3.54,L,51.61,"2023-10-22 13:45:54",Emilie,Arton,F,NULL
+1079,Benji,Farran,Agricolo,"Conserva di pomodoro",0.81,L,21.21,"2025-10-09 10:52:57",Budd,Wiggall,M,2005-11-25
+369,Benji,Farran,Agricolo,"Salsa piccante",1.39,L,41.32,"2023-09-12 13:28:03",Willa,Kilner,Altro,1972-01-24
+125,Benji,Farran,Agricolo,Melanzane,0.72,Kg,3.79,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+525,Benji,Farran,Agricolo,Melanzane,0.72,Kg,3.79,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+825,Benji,Farran,Agricolo,Melanzane,0.72,Kg,3.79,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+1137,Benji,Farran,Agricolo,Melanzane,195.53,Kg,1725.84,"2023-07-25 19:31:32",Clayborn,Center,"Preferisco non specificare",NULL
+92,Benji,Farran,Agricolo,Patate,1.73,Kg,45.26,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+362,Benji,Farran,Agricolo,Patate,3.00,Kg,78.48,"2026-01-11 19:33:59",Antonina,Rooksby,Altro,1959-08-01
+492,Benji,Farran,Agricolo,Patate,1.73,Kg,45.26,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+792,Benji,Farran,Agricolo,Patate,1.73,Kg,45.26,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+160,Benji,Farran,Agricolo,"Frutta essiccata",1.46,Kg,43.07,"2023-04-06 18:57:31",Delia,Hirjak,Altro,1995-09-21
+560,Benji,Farran,Agricolo,"Frutta essiccata",1.46,Kg,43.07,"2023-04-06 19:57:31",Delia,Hirjak,Altro,1995-09-21
+860,Benji,Farran,Agricolo,"Frutta essiccata",1.46,Kg,43.07,"2023-04-06 11:57:31",Delia,Hirjak,Altro,1995-09-21
+1083,Benji,Farran,Agricolo,"Frutta essiccata",5.05,Kg,42.57,"2025-06-01 13:21:44",Issy,Cobbe,F,2007-10-09
+233,Benji,Farran,Agricolo,Mandorle,1.16,Kg,12.73,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+633,Benji,Farran,Agricolo,Mandorle,1.16,Kg,12.73,"2023-10-05 14:34:48",Antone,Ingman,Altro,1949-08-22
+933,Benji,Farran,Agricolo,Mandorle,1.16,Kg,12.73,"2023-10-05 13:34:48",Antone,Ingman,Altro,1949-08-22
+1075,Cherlyn,Pontin,"Derivato Animale","Latte fermentato",4.93,L,102.88,"2023-12-08 09:48:16",Rebeka,Gawn,"Preferisco non specificare",1947-10-02
+79,Cherlyn,Pontin,"Derivato Animale","Yogurt greco",0.53,Kg,1.51,"2025-12-22 09:00:47",Elena,Aubry,F,1944-07-27
+479,Cherlyn,Pontin,"Derivato Animale","Yogurt greco",0.53,Kg,1.51,"2025-12-22 15:00:47",Elena,Aubry,F,1944-07-27
+779,Cherlyn,Pontin,"Derivato Animale","Yogurt greco",0.53,Kg,1.51,"2025-12-22 15:00:47",Elena,Aubry,F,1944-07-27
+1084,Cherlyn,Pontin,"Derivato Animale","Yogurt greco",2.72,L,58.40,"2023-10-06 15:34:30",Liesa,Lamming,F,1992-09-13
+1132,Cherlyn,Pontin,"Derivato Animale","Ricotta con miele",3.90,Kg,22.62,"2024-02-11 10:44:01",Ivar,Tolefree,M,1951-11-13
+1162,Cherlyn,Pontin,"Derivato Animale","Ricotta con miele",7.83,Kg,55.17,"2023-06-12 17:38:58",Michal,Campany,M,1972-04-24
+72,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",4.00,Kg,140.00,"2025-05-26 11:49:03",Rheta,Lydiard,F,1979-08-10
+282,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",3.00,Kg,105.00,"2025-09-18 14:36:15",Taber,Chandlar,NULL,1992-06-09
+301,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",2.52,Kg,88.20,"2025-04-08 08:20:36",Koo,Dring,M,1968-10-09
+347,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",1.69,Kg,59.15,"2024-08-10 11:15:31",Kenna,Rioch,F,1950-07-10
+472,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",4.00,Kg,140.00,"2025-05-26 09:49:03",Rheta,Lydiard,F,1979-08-10
+682,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",3.00,Kg,105.00,"2025-09-18 09:36:15",Taber,Chandlar,NULL,1992-06-09
+772,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",4.00,Kg,140.00,"2025-05-26 11:49:03",Rheta,Lydiard,F,1979-08-10
+982,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",3.00,Kg,105.00,"2025-09-18 10:36:15",Taber,Chandlar,NULL,1992-06-09
+1073,Cherlyn,Pontin,"Derivato Animale","Formaggio al tartufo",4.69,Kg,9.19,"2024-12-29 08:40:29",Shelagh,Saffin,M,1955-07-28
+176,Cherlyn,Pontin,"Derivato Animale",Pecorino,3.00,Kg,8.76,"2024-10-16 14:54:42",Warren,Tricker,M,NULL
+576,Cherlyn,Pontin,"Derivato Animale",Pecorino,3.00,Kg,8.76,"2024-10-16 14:54:42",Warren,Tricker,M,NULL
+876,Cherlyn,Pontin,"Derivato Animale",Pecorino,3.00,Kg,8.76,"2024-10-16 14:54:42",Warren,Tricker,M,NULL
+1136,Cherlyn,Pontin,"Derivato Animale",Pecorino,8.28,Kg,24.51,"2025-04-28 08:33:13",Vicki,Adlam,F,1969-10-22
+252,Cherlyn,Pontin,"Derivato Animale","Brodo di carne",0.25,L,2.79,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+652,Cherlyn,Pontin,"Derivato Animale","Brodo di carne",0.25,L,2.79,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+952,Cherlyn,Pontin,"Derivato Animale","Brodo di carne",0.25,L,2.79,"2024-10-31 16:13:46",Harrietta,Aloshechkin,Altro,NULL
+100,Cherlyn,Pontin,"Derivato Animale","Miele di acacia",2.29,Kg,67.03,"2023-07-12 09:31:16",Axel,Jozsika,M,1978-06-24
+500,Cherlyn,Pontin,"Derivato Animale","Miele di acacia",2.29,Kg,67.03,"2023-07-12 09:31:16",Axel,Jozsika,M,1978-06-24
+800,Cherlyn,Pontin,"Derivato Animale","Miele di acacia",2.29,Kg,67.03,"2023-07-12 09:31:16",Axel,Jozsika,M,1978-06-24
+25,Cherlyn,Pontin,Agricolo,"Olio extravergine",0.93,L,12.42,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+199,Cherlyn,Pontin,Agricolo,"Olio extravergine",1.12,L,14.95,"2025-03-17 16:10:38",Wesley,Jouaneton,NULL,1976-10-16
+425,Cherlyn,Pontin,Agricolo,"Olio extravergine",0.93,L,12.42,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+599,Cherlyn,Pontin,Agricolo,"Olio extravergine",1.12,L,14.95,"2025-03-17 17:10:38",Wesley,Jouaneton,NULL,1976-10-16
+725,Cherlyn,Pontin,Agricolo,"Olio extravergine",0.93,L,12.42,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+899,Cherlyn,Pontin,Agricolo,"Olio extravergine",1.12,L,14.95,"2025-03-17 18:10:38",Wesley,Jouaneton,NULL,1976-10-16
+39,Cherlyn,Pontin,Agricolo,Melanzane,2.45,Kg,12.91,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+140,Cherlyn,Pontin,Agricolo,Melanzane,3.00,Kg,15.81,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+439,Cherlyn,Pontin,Agricolo,Melanzane,2.45,Kg,12.91,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+540,Cherlyn,Pontin,Agricolo,Melanzane,3.00,Kg,15.81,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+739,Cherlyn,Pontin,Agricolo,Melanzane,2.45,Kg,12.91,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+840,Cherlyn,Pontin,Agricolo,Melanzane,3.00,Kg,15.81,"2023-09-21 08:30:58",Antone,Ingman,Altro,1949-08-22
+127,Cherlyn,Pontin,Agricolo,Radicchio,3.00,Kg,81.51,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+527,Cherlyn,Pontin,Agricolo,Radicchio,3.00,Kg,81.51,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+827,Cherlyn,Pontin,Agricolo,Radicchio,3.00,Kg,81.51,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+165,Cherlyn,Pontin,Agricolo,"Frutta caramellata",2.00,Kg,48.98,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+222,Cherlyn,Pontin,Agricolo,"Frutta caramellata",3.27,Kg,80.08,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+565,Cherlyn,Pontin,Agricolo,"Frutta caramellata",2.00,Kg,48.98,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+622,Cherlyn,Pontin,Agricolo,"Frutta caramellata",3.27,Pezzi,80.08,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+865,Cherlyn,Pontin,Agricolo,"Frutta caramellata",2.00,Kg,48.98,"2026-02-18 13:23:06",Delia,Hirjak,Altro,1995-09-21
+922,Cherlyn,Pontin,Agricolo,"Frutta caramellata",3.27,Pezzi,80.08,"2025-06-26 15:55:55",Uriah,Villaron,NULL,2000-03-18
+20,Gene,Oiseau,"Derivato Animale","Latte crudo",3.82,L,59.90,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+53,Gene,Oiseau,"Derivato Animale","Latte crudo",4.95,L,77.62,"2024-05-19 09:32:39",Marian,Niemetz,NULL,1981-07-21
+420,Gene,Oiseau,"Derivato Animale","Latte crudo",3.82,L,59.90,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+453,Gene,Oiseau,"Derivato Animale","Latte crudo",4.95,L,77.62,"2024-05-19 11:32:39",Marian,Niemetz,NULL,1981-07-21
+720,Gene,Oiseau,"Derivato Animale","Latte crudo",3.82,L,59.90,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+753,Gene,Oiseau,"Derivato Animale","Latte crudo",4.95,L,77.62,"2024-05-19 11:32:39",Marian,Niemetz,NULL,1981-07-21
+291,Gene,Oiseau,"Derivato Animale","Latte fermentato",2.00,L,17.70,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+691,Gene,Oiseau,"Derivato Animale","Latte fermentato",2.00,L,17.70,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+991,Gene,Oiseau,"Derivato Animale","Latte fermentato",2.00,L,17.70,"2026-01-23 11:46:16",Maximo,Gannaway,M,NULL
+111,Gene,Oiseau,"Derivato Animale",Burro,4.00,Kg,67.20,"2026-02-19 13:13:20",Marian,Niemetz,NULL,1981-07-21
+149,Gene,Oiseau,"Derivato Animale",Burro,1.10,Kg,18.48,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+511,Gene,Oiseau,"Derivato Animale",Burro,4.00,Kg,67.20,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+549,Gene,Oiseau,"Derivato Animale",Burro,1.10,Kg,18.48,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+811,Gene,Oiseau,"Derivato Animale",Burro,4.00,Kg,67.20,"2026-02-19 14:13:20",Marian,Niemetz,NULL,1981-07-21
+849,Gene,Oiseau,"Derivato Animale",Burro,1.10,Kg,18.48,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+1195,Gene,Oiseau,"Derivato Animale","Ricotta stagionata",5.31,Kg,23.91,"2026-02-07 17:11:21",Randie,Genge,M,1999-02-25
+124,Gene,Oiseau,"Derivato Animale","Polpette con verdure",8.00,Pezzi,96.00,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+169,Gene,Oiseau,"Derivato Animale","Polpette con verdure",1.00,Pezzi,12.00,"2023-08-05 11:13:04",Calla,Smedmore,"Preferisco non specificare",1991-12-09
+357,Gene,Oiseau,"Derivato Animale","Polpette con verdure",4.00,Pezzi,48.00,"2023-12-22 13:11:22",Taber,Chandlar,NULL,1992-06-09
+524,Gene,Oiseau,"Derivato Animale","Polpette con verdure",8.00,Pezzi,96.00,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+569,Gene,Oiseau,"Derivato Animale","Polpette con verdure",1.00,Pezzi,12.00,"2023-08-05 11:13:04",Calla,Smedmore,"Preferisco non specificare",1991-12-09
+824,Gene,Oiseau,"Derivato Animale","Polpette con verdure",8.00,Pezzi,96.00,"2023-11-16 13:22:08",Wesley,Jouaneton,NULL,1976-10-16
+869,Gene,Oiseau,"Derivato Animale","Polpette con verdure",1.00,Pezzi,12.00,"2023-08-05 16:13:04",Calla,Smedmore,"Preferisco non specificare",1991-12-09
+192,Gene,Oiseau,"Derivato Animale","Formaggio fuso",4.24,Kg,105.19,"2024-10-20 18:34:45",Aridatha,Duxfield,Altro,1953-03-05
+592,Gene,Oiseau,"Derivato Animale","Formaggio fuso",4.24,Kg,105.19,"2024-10-20 18:34:45",Aridatha,Duxfield,Altro,1953-03-05
+892,Gene,Oiseau,"Derivato Animale","Formaggio fuso",4.24,Kg,105.19,"2024-10-20 18:34:45",Aridatha,Duxfield,Altro,1953-03-05
+1019,Gene,Oiseau,"Derivato Animale","Formaggio fuso",5.91,Kg,18.61,"2024-11-07 11:39:03",Adolph,Bagg,M,1967-12-17
+1200,Gene,Oiseau,"Derivato Animale","Dessert a base latte",2.12,Kg,19.22,"2025-04-04 15:49:04",Adolph,Bagg,M,1967-12-17
+14,Gene,Oiseau,Agricolo,"Vino bianco",3.82,L,104.40,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+414,Gene,Oiseau,Agricolo,"Vino bianco",3.82,L,104.40,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+714,Gene,Oiseau,Agricolo,"Vino bianco",3.82,L,104.40,"2025-12-10 08:46:10",Karina,Fawlks,"Preferisco non specificare",2002-09-15
+320,Gene,Oiseau,Agricolo,Melanzane,4.43,Kg,23.35,"2024-08-15 10:46:24",Fee,Tabary,F,NULL
+346,Gene,Oiseau,Agricolo,Melanzane,2.26,Kg,11.91,"2024-08-10 11:15:31",Kenna,Rioch,F,1950-07-10
+1081,Gene,Oiseau,Agricolo,Melanzane,170.48,Kg,1277.13,"2026-04-06 14:27:26",Stormie,Fante,"Preferisco non specificare",1950-12-23
+195,Gene,Oiseau,Agricolo,"Frutta secca",1.26,Kg,23.34,"2023-06-17 11:47:29",Zulema,Dabrowski,F,1959-01-14
+595,Gene,Oiseau,Agricolo,"Frutta secca",1.26,Kg,23.34,"2023-06-17 11:47:29",Zulema,Dabrowski,F,1959-01-14
+895,Gene,Oiseau,Agricolo,"Frutta secca",1.26,Kg,23.34,"2023-06-17 11:47:29",Zulema,Dabrowski,F,1959-01-14
+1086,Gene,Oiseau,Agricolo,"Frutta secca",4.33,Kg,36.28,"2025-06-02 19:19:39",Aloise,Faivre,"Preferisco non specificare",1998-12-04
+95,Gene,Oiseau,Agricolo,"Frutta sciroppata",4.01,Kg,88.70,"2023-06-16 09:57:42",Harrietta,Aloshechkin,Altro,NULL
+495,Gene,Oiseau,Agricolo,"Frutta sciroppata",4.01,Kg,88.70,"2023-06-16 13:57:42",Harrietta,Aloshechkin,Altro,NULL
+795,Gene,Oiseau,Agricolo,"Frutta sciroppata",4.01,Kg,88.70,"2023-06-16 08:57:42",Harrietta,Aloshechkin,Altro,NULL
+294,Gene,Oiseau,Agricolo,"Snack vegetali",4.17,Kg,32.15,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+398,Gene,Oiseau,Agricolo,"Snack vegetali",1.94,Kg,14.96,"2023-11-19 12:10:41",Gwenore,Haslock(e),NULL,NULL
+694,Gene,Oiseau,Agricolo,"Snack vegetali",4.17,Pezzi,32.15,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+994,Gene,Oiseau,Agricolo,"Snack vegetali",4.17,Pezzi,32.15,"2025-09-14 10:42:59",Damiano,Sharratt,NULL,NULL
+1049,Gene,Oiseau,Agricolo,"Bevanda a base cereali",3.66,L,77.66,"2025-09-23 08:40:55",Liesa,Lamming,F,1992-09-13
+1077,Jedd,Coard,"Derivato Animale","Panna da cucina",2.00,L,41.96,"2024-07-30 08:48:19",Obidiah,Dyzart,Altro,1969-06-28
+209,Jedd,Coard,"Derivato Animale",Scamorza,0.94,Kg,23.70,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+609,Jedd,Coard,"Derivato Animale",Scamorza,0.94,Kg,23.70,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+909,Jedd,Coard,"Derivato Animale",Scamorza,0.94,Kg,23.70,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+1043,Jedd,Coard,"Derivato Animale","Carne ovina",100.19,Kg,971.09,"2023-11-08 09:58:49",Budd,Wiggall,M,2005-11-25
+1062,Jedd,Coard,"Derivato Animale","Carne caprina",58.29,Kg,301.93,"2024-08-01 09:17:48",Kipper,Caldairou,"Preferisco non specificare",2002-08-21
+69,Jedd,Coard,"Derivato Animale",Salame,0.87,Kg,4.02,"2024-08-17 10:29:22",Mahmud,Jiruch,M,1959-11-15
+311,Jedd,Coard,"Derivato Animale",Salame,1.13,Kg,5.22,"2024-05-29 10:00:42",Gwenore,Haslock(e),NULL,NULL
+469,Jedd,Coard,"Derivato Animale",Salame,0.87,Kg,4.02,"2024-08-17 08:29:22",Mahmud,Jiruch,M,1959-11-15
+769,Jedd,Coard,"Derivato Animale",Salame,0.87,Kg,4.02,"2024-08-17 11:29:22",Mahmud,Jiruch,M,1959-11-15
+1004,Jedd,Coard,"Derivato Animale",Salame,1.13,Kg,8.82,"2023-12-08 11:35:01",Patsy,Basile,Altro,NULL
+155,Jedd,Coard,"Derivato Animale","Prosciutto crudo",1.60,Kg,46.62,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+555,Jedd,Coard,"Derivato Animale","Prosciutto crudo",1.60,Kg,46.62,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+855,Jedd,Coard,"Derivato Animale","Prosciutto crudo",1.60,Kg,46.62,"2023-01-15 09:02:05",Etan,Hoodlass,Altro,NULL
+88,Jedd,Coard,"Derivato Animale","Prosciutto cotto",1.00,Kg,9.23,"2023-02-13 16:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+277,Jedd,Coard,"Derivato Animale","Prosciutto cotto",3.97,Kg,36.64,"2024-07-21 16:16:06",Graehme,Benjamin,M,1973-02-16
+488,Jedd,Coard,"Derivato Animale","Prosciutto cotto",1.00,Kg,9.23,"2023-02-13 13:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+677,Jedd,Coard,"Derivato Animale","Prosciutto cotto",3.97,Kg,36.64,"2024-07-21 16:16:06",Graehme,Benjamin,M,1973-02-16
+788,Jedd,Coard,"Derivato Animale","Prosciutto cotto",1.00,Kg,9.23,"2023-02-13 11:09:49",Wittie,Mille,"Preferisco non specificare",2006-12-04
+977,Jedd,Coard,"Derivato Animale","Prosciutto cotto",3.97,Kg,36.64,"2024-07-21 19:16:06",Graehme,Benjamin,M,1973-02-16
+1066,Jedd,Coard,"Derivato Animale","Prosciutto cotto",136.18,Kg,215.93,"2026-03-09 10:38:22",Kipper,Caldairou,"Preferisco non specificare",2002-08-21
+1194,Jedd,Coard,"Derivato Animale","Prosciutto cotto",124.98,Kg,791.02,"2023-01-23 13:48:08",Marcelline,Kill,"Preferisco non specificare",2002-08-26
+23,Jedd,Coard,"Derivato Animale","Polpette con spezie",5.00,Pezzi,75.00,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+423,Jedd,Coard,"Derivato Animale","Polpette con spezie",5.00,Pezzi,75.00,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+723,Jedd,Coard,"Derivato Animale","Polpette con spezie",5.00,Pezzi,75.00,"2024-05-17 17:29:07",Lolly,Abramzon,"Preferisco non specificare",1995-06-08
+1,Jedd,Coard,"Derivato Animale","Polpette con verdure",8.00,Pezzi,96.00,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+76,Jedd,Coard,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2023-05-24 09:29:49",Yehudit,Edds,F,1944-09-07
+106,Jedd,Coard,"Derivato Animale","Polpette con verdure",4.00,Pezzi,48.00,"2024-01-01 09:07:15",Wash,Rainer,NULL,NULL
+401,Jedd,Coard,"Derivato Animale","Polpette con verdure",8.00,Pezzi,96.00,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+476,Jedd,Coard,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2023-05-24 09:29:49",Yehudit,Edds,F,1944-09-07
+506,Jedd,Coard,"Derivato Animale","Polpette con verdure",4.00,Pezzi,48.00,"2024-01-01 09:07:15",Wash,Rainer,NULL,NULL
+701,Jedd,Coard,"Derivato Animale","Polpette con verdure",8.00,Pezzi,96.00,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+776,Jedd,Coard,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2023-05-24 09:29:49",Yehudit,Edds,F,1944-09-07
+806,Jedd,Coard,"Derivato Animale","Polpette con verdure",4.00,Pezzi,48.00,"2024-01-01 09:07:15",Wash,Rainer,NULL,NULL
+104,Jedd,Coard,Agricolo,Grano,3.04,Kg,24.93,"2023-12-25 13:50:55",Thedrick,Cubbon,"Preferisco non specificare",1961-08-24
+504,Jedd,Coard,Agricolo,Grano,3.04,Kg,24.93,"2023-12-25 13:50:55",Thedrick,Cubbon,"Preferisco non specificare",1961-08-24
+804,Jedd,Coard,Agricolo,Grano,3.04,Kg,24.93,"2023-12-25 13:50:55",Thedrick,Cubbon,"Preferisco non specificare",1961-08-24
+1158,Jedd,Coard,Agricolo,Pasta,8.19,Kg,19.27,"2023-08-25 16:32:27",Dierdre,Gaitone,F,1994-06-02
+90,Jedd,Coard,Agricolo,"Dolci con frutta",5.00,Pezzi,100.00,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+490,Jedd,Coard,Agricolo,"Dolci con frutta",5.00,Pezzi,100.00,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+790,Jedd,Coard,Agricolo,"Dolci con frutta",5.00,Pezzi,100.00,"2024-10-25 19:30:07",Gav,Fuxman,M,1991-10-21
+1097,Jedd,Coard,Agricolo,"Dolci con frutta",4.00,Pezzi,71.61,"2025-10-07 16:51:03",Gena,Huscroft,NULL,2005-09-01
+1141,Jedd,Coard,Agricolo,"Dolci con frutta",5.00,Pezzi,108.46,"2025-12-13 13:42:09",Leanora,Coppin,M,1954-06-06
+105,Jedd,Coard,Agricolo,"Marmellata di agrumi",2.00,Kg,59.80,"2024-01-01 09:07:15",Wash,Rainer,NULL,NULL
+131,Jedd,Coard,Agricolo,"Marmellata di agrumi",1.81,Kg,54.12,"2023-09-21 19:07:29",Sauncho,Dmtrovic,M,1995-02-22
+246,Jedd,Coard,Agricolo,"Marmellata di agrumi",3.82,Kg,114.22,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+505,Jedd,Coard,Agricolo,"Marmellata di agrumi",2.00,Kg,59.80,"2024-01-01 09:07:15",Wash,Rainer,NULL,NULL
+531,Jedd,Coard,Agricolo,"Marmellata di agrumi",1.81,Kg,54.12,"2023-09-21 19:07:29",Sauncho,Dmtrovic,M,1995-02-22
+646,Jedd,Coard,Agricolo,"Marmellata di agrumi",3.82,Kg,114.22,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+805,Jedd,Coard,Agricolo,"Marmellata di agrumi",2.00,Kg,59.80,"2024-01-01 09:07:15",Wash,Rainer,NULL,NULL
+831,Jedd,Coard,Agricolo,"Marmellata di agrumi",1.81,Kg,54.12,"2023-09-21 19:07:29",Sauncho,Dmtrovic,M,1995-02-22
+946,Jedd,Coard,Agricolo,"Marmellata di agrumi",3.82,Kg,114.22,"2025-11-23 18:08:37",Emilie,Arton,F,NULL
+1109,Jedd,Coard,Agricolo,"Marmellata di agrumi",9.00,Pezzi,91.45,"2025-08-08 16:40:29",Leanora,Coppin,M,1954-06-06
+344,Jedd,Coard,Agricolo,"Verdure surgelate",1.47,Pezzi,35.04,"2024-08-10 11:15:31",Kenna,Rioch,F,1950-07-10
+1174,Jedd,Coard,Agricolo,Aglio,2.84,Kg,19.05,"2023-06-10 13:26:05",Harlene,Cartlidge,F,1941-03-25
+225,Jedd,Coard,Agricolo,"Frutta secca",3.12,Kg,57.78,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+625,Jedd,Coard,Agricolo,"Frutta secca",3.12,Kg,57.78,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+925,Jedd,Coard,Agricolo,"Frutta secca",3.12,Kg,57.78,"2024-04-12 11:16:15",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+377,Jedd,Coard,Agricolo,Agrumi,2.00,Pezzi,29.26,"2024-09-12 13:11:56",Celestine,Capron,Altro,1987-12-31
+1007,Tiphanie,Caselick,"Derivato Animale","Latte fermentato",2.99,L,70.30,"2024-08-13 08:14:10",Juliana,Paty,NULL,1952-03-09
+6,Tiphanie,Caselick,"Derivato Animale","Formaggio fresco",1.62,Kg,11.94,"2025-07-17 08:36:06",Ramon,Newton,M,1951-12-22
+378,Tiphanie,Caselick,"Derivato Animale","Formaggio fresco",5.00,Kg,36.85,"2024-10-19 09:01:11",Marian,Niemetz,NULL,1981-07-21
+406,Tiphanie,Caselick,"Derivato Animale","Formaggio fresco",1.62,Kg,11.94,"2025-07-17 17:36:06",Ramon,Newton,M,1951-12-22
+706,Tiphanie,Caselick,"Derivato Animale","Formaggio fresco",1.62,Kg,11.94,"2025-07-17 18:36:06",Ramon,Newton,M,1951-12-22
+368,Tiphanie,Caselick,"Derivato Animale","Formaggio al pepe",4.69,Kg,117.25,"2023-02-17 09:42:10",Karil,Yushankin,F,NULL
+261,Tiphanie,Caselick,"Derivato Animale",Caciotta,1.07,Kg,14.01,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+661,Tiphanie,Caselick,"Derivato Animale",Caciotta,1.07,Kg,14.01,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+961,Tiphanie,Caselick,"Derivato Animale",Caciotta,1.07,Kg,14.01,"2023-05-03 08:03:26",Gwenore,Haslock(e),NULL,NULL
+332,Tiphanie,Caselick,"Derivato Animale",Scamorza,1.82,Kg,45.88,"2023-09-15 15:45:47",Else,Dunnett,Altro,1945-01-05
+46,Tiphanie,Caselick,"Derivato Animale","Uova fresche",9.00,Pezzi,38.25,"2023-01-14 10:50:59",Simonne,Brosi,F,1964-10-21
+389,Tiphanie,Caselick,"Derivato Animale","Uova fresche",7.00,Pezzi,29.75,"2024-12-01 08:15:46",Eryn,Sherrocks,F,1961-05-19
+446,Tiphanie,Caselick,"Derivato Animale","Uova fresche",9.00,Pezzi,38.25,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+746,Tiphanie,Caselick,"Derivato Animale","Uova fresche",9.00,Pezzi,38.25,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+1057,Tiphanie,Caselick,"Derivato Animale","Uova fresche",10.00,Pezzi,26.32,"2025-06-03 13:11:28",Rabi,Roon,Altro,2004-09-28
+1139,Tiphanie,Caselick,"Derivato Animale","Uova fresche",4.00,Pezzi,20.16,"2026-01-31 08:38:11",Liesa,Lamming,F,1992-09-13
+1038,Tiphanie,Caselick,"Derivato Animale",Albume,8.42,Kg,38.78,"2024-10-11 08:35:45",Ned,Spry,"Preferisco non specificare",1975-08-29
+1046,Tiphanie,Caselick,"Derivato Animale","Carne ovina",96.22,Kg,523.21,"2024-09-10 08:19:54",Dena,Mallaby,F,1964-08-18
+42,Tiphanie,Caselick,"Derivato Animale","Carne lavorata",5.00,Kg,33.75,"2026-02-21 19:29:08",Gwenore,Haslock(e),NULL,NULL
+376,Tiphanie,Caselick,"Derivato Animale","Carne lavorata",4.34,Kg,29.29,"2024-09-12 13:11:56",Celestine,Capron,Altro,1987-12-31
+442,Tiphanie,Caselick,"Derivato Animale","Carne lavorata",5.00,Kg,33.75,"2026-02-21 19:29:08",Gwenore,Haslock(e),NULL,NULL
+742,Tiphanie,Caselick,"Derivato Animale","Carne lavorata",5.00,Kg,33.75,"2026-02-21 18:29:08",Gwenore,Haslock(e),NULL,NULL
+1082,Tiphanie,Caselick,"Derivato Animale","Salame al vino rosso",4.27,Kg,40.78,"2024-04-09 12:21:21",Celinka,Mourgue,Altro,1946-07-13
+51,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",3.00,L,33.51,"2024-05-19 09:32:39",Marian,Niemetz,NULL,1981-07-21
+122,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",3.25,L,36.30,"2024-06-12 18:32:52",Ursula,Askam,F,1950-06-12
+342,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",4.55,L,50.82,"2025-06-13 17:29:25",Lizzie,Beeswing,Altro,1970-03-02
+451,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",3.00,L,33.51,"2024-05-19 11:32:39",Marian,Niemetz,NULL,1981-07-21
+522,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",3.25,L,36.30,"2024-06-12 14:32:52",Ursula,Askam,F,1950-06-12
+751,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",3.00,L,33.51,"2024-05-19 11:32:39",Marian,Niemetz,NULL,1981-07-21
+822,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",3.25,L,36.30,"2024-06-12 12:32:52",Ursula,Askam,F,1950-06-12
+1140,Tiphanie,Caselick,"Derivato Animale","Brodo di carne",3.34,L,73.31,"2023-10-25 17:29:39",Clayborn,Center,"Preferisco non specificare",NULL
+1023,Tiphanie,Caselick,"Derivato Animale","Siero di latte",0.54,L,6.42,"2023-05-01 11:39:40",Heather,Dumpleton,"Preferisco non specificare",1978-04-11
+133,Tiphanie,Caselick,Agricolo,"Proteine del latte",2.00,Kg,59.94,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+533,Tiphanie,Caselick,Agricolo,"Proteine del latte",2.00,Kg,59.94,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+833,Tiphanie,Caselick,Agricolo,"Proteine del latte",2.00,Kg,59.94,"2025-09-01 13:45:55",Finley,Grugerr,M,1992-08-21
+45,Tiphanie,Caselick,Agricolo,"Pane alle erbe aromatiche",7.00,Pezzi,35.00,"2023-01-14 10:50:59",Simonne,Brosi,F,1964-10-21
+445,Tiphanie,Caselick,Agricolo,"Pane alle erbe aromatiche",7.00,Pezzi,35.00,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+745,Tiphanie,Caselick,Agricolo,"Pane alle erbe aromatiche",7.00,Pezzi,35.00,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+1022,Tiphanie,Caselick,Agricolo,"Pane alle erbe aromatiche",1.00,Pezzi,9.05,"2025-10-10 16:13:19",Wendy,Givens,"Preferisco non specificare",NULL
+1044,Tiphanie,Caselick,Agricolo,"Pasta al pomodoro",9.20,Kg,54.70,"2025-04-25 15:08:12",Griffie,Sallings,Altro,1947-01-11
+150,Tiphanie,Caselick,Agricolo,"Verdure sott’olio",1.74,Kg,32.00,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+218,Tiphanie,Caselick,Agricolo,"Verdure sott’olio",2.58,Kg,47.45,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+550,Tiphanie,Caselick,Agricolo,"Verdure sott’olio",1.74,Kg,32.00,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+618,Tiphanie,Caselick,Agricolo,"Verdure sott’olio",2.58,Kg,47.45,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+850,Tiphanie,Caselick,Agricolo,"Verdure sott’olio",1.74,Kg,32.00,"2025-07-01 17:28:00",Lawrence,Smetoun,"Preferisco non specificare",1971-09-27
+918,Tiphanie,Caselick,Agricolo,"Verdure sott’olio",2.58,Kg,47.45,"2024-08-03 16:31:41",Allissa,Dassindale,F,1961-12-06
+1165,Tiphanie,Caselick,Agricolo,"Verdure sott’olio",6.00,Pezzi,131.92,"2023-07-01 16:08:31",Stormie,Fante,"Preferisco non specificare",1950-12-23
+384,Tiphanie,Caselick,Agricolo,Carote,0.70,Kg,4.24,"2024-02-25 19:37:54",Kaine,Byk,Altro,1995-12-27
+213,Aubrey,Durant,"Derivato Animale",Mozzarella,4.30,Kg,88.28,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+254,Aubrey,Durant,"Derivato Animale",Mozzarella,1.09,Kg,22.38,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+613,Aubrey,Durant,"Derivato Animale",Mozzarella,4.30,Kg,88.28,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+654,Aubrey,Durant,"Derivato Animale",Mozzarella,1.09,Kg,22.38,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+913,Aubrey,Durant,"Derivato Animale",Mozzarella,4.30,Kg,88.28,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+954,Aubrey,Durant,"Derivato Animale",Mozzarella,1.09,Kg,22.38,"2023-07-23 17:57:33",Eldridge,Potter,M,1984-04-15
+188,Aubrey,Durant,"Derivato Animale","Formaggio fresco",3.00,Kg,22.11,"2025-01-16 11:46:39",Collin,Spenley,M,1998-06-21
+588,Aubrey,Durant,"Derivato Animale","Formaggio fresco",3.00,Kg,22.11,"2025-01-16 11:46:39",Collin,Spenley,M,1998-06-21
+888,Aubrey,Durant,"Derivato Animale","Formaggio fresco",3.00,Kg,22.11,"2025-01-16 11:46:39",Collin,Spenley,M,1998-06-21
+386,Aubrey,Durant,"Derivato Animale","Formaggio stagionato",1.29,Kg,28.11,"2024-02-25 19:37:54",Kaine,Byk,Altro,1995-12-27
+1153,Aubrey,Durant,"Derivato Animale","Formaggio spalmabile",2.15,Kg,3.37,"2024-04-21 09:38:28",Prinz,Petracek,Altro,1950-03-25
+1020,Aubrey,Durant,"Derivato Animale",Salsiccia,9.00,Pezzi,165.18,"2023-09-07 14:04:39",Theressa,Demare,M,1997-06-30
+1149,Aubrey,Durant,"Derivato Animale",Salsiccia,6.00,Pezzi,42.02,"2025-07-11 18:48:23",Wendy,Givens,"Preferisco non specificare",NULL
+1155,Aubrey,Durant,"Derivato Animale",Salsiccia,8.00,Pezzi,174.82,"2024-03-18 09:43:38",Thaine,Pendlington,Altro,1984-08-05
+1193,Aubrey,Durant,"Derivato Animale",Salame,190.19,Kg,894.86,"2023-12-06 19:06:02",Obidiah,Dyzart,Altro,1969-06-28
+1177,Aubrey,Durant,"Derivato Animale","Carne essiccata",64.98,Kg,380.06,"2024-09-21 14:04:37",Patsy,Basile,Altro,NULL
+22,Aubrey,Durant,"Derivato Animale","Polpette con verdure",7.00,Pezzi,84.00,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+47,Aubrey,Durant,"Derivato Animale","Polpette con verdure",2.00,Pezzi,24.00,"2023-01-14 10:50:59",Simonne,Brosi,F,1964-10-21
+264,Aubrey,Durant,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+422,Aubrey,Durant,"Derivato Animale","Polpette con verdure",7.00,Pezzi,84.00,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+447,Aubrey,Durant,"Derivato Animale","Polpette con verdure",2.00,Pezzi,24.00,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+664,Aubrey,Durant,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+722,Aubrey,Durant,"Derivato Animale","Polpette con verdure",7.00,Pezzi,84.00,"2023-08-10 15:31:48",Rainer,Balkwill,M,1955-11-07
+747,Aubrey,Durant,"Derivato Animale","Polpette con verdure",2.00,Pezzi,24.00,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+964,Aubrey,Durant,"Derivato Animale","Polpette con verdure",10.00,Pezzi,120.00,"2025-03-05 11:15:37",Antone,Ingman,Altro,1949-08-22
+379,Aubrey,Durant,"Derivato Animale","Siero di latte",3.00,L,55.62,"2024-10-19 09:01:11",Marian,Niemetz,NULL,1981-07-21
+387,Aubrey,Durant,"Derivato Animale","Gelato al miele",1.42,L,35.50,"2023-11-26 08:02:02",Fremont,Backson,M,NULL
+269,Aubrey,Durant,Agricolo,"Olio vegetale",1.53,L,44.29,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+669,Aubrey,Durant,Agricolo,"Olio vegetale",1.53,L,44.29,"2024-07-21 17:11:30",Antone,Ingman,Altro,1949-08-22
+969,Aubrey,Durant,Agricolo,"Olio vegetale",1.53,L,44.29,"2024-07-21 12:11:30",Antone,Ingman,Altro,1949-08-22
+1018,Aubrey,Durant,Agricolo,"Olio vegetale",4.40,L,78.83,"2023-10-05 17:26:11",Cthrine,Clowton,F,2002-03-22
+173,Aubrey,Durant,Agricolo,"Vino rosso",2.00,L,56.36,"2025-08-19 19:46:45",Koral,Rebanks,NULL,1993-09-11
+573,Aubrey,Durant,Agricolo,"Vino rosso",2.00,L,56.36,"2025-08-19 19:46:45",Koral,Rebanks,NULL,1993-09-11
+873,Aubrey,Durant,Agricolo,"Vino rosso",2.00,L,56.36,"2025-08-19 19:46:45",Koral,Rebanks,NULL,1993-09-11
+323,Aubrey,Durant,Agricolo,"Insalata mista",2.05,Kg,15.27,"2024-08-15 10:46:24",Fee,Tabary,F,NULL
+1101,Aubrey,Durant,Agricolo,Peperoni,186.26,Kg,714.85,"2025-03-31 11:50:45",Gena,Huscroft,NULL,2005-09-01
+1151,Aubrey,Durant,Agricolo,Lattuga,133.67,Kg,1317.95,"2025-03-06 16:55:56",Valaria,Grebner,F,1984-07-13
+399,Aubrey,Durant,Agricolo,"Succo concentrato",5.00,L,85.10,"2023-11-19 12:10:41",Gwenore,Haslock(e),NULL,NULL
+31,Nani,Benoi,"Derivato Animale","Latte crudo",4.00,L,62.72,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+44,Nani,Benoi,"Derivato Animale","Latte crudo",1.00,L,15.68,"2023-01-14 10:50:59",Simonne,Brosi,F,1964-10-21
+431,Nani,Benoi,"Derivato Animale","Latte crudo",4.00,L,62.72,"2023-08-17 11:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+444,Nani,Benoi,"Derivato Animale","Latte crudo",1.00,L,15.68,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+731,Nani,Benoi,"Derivato Animale","Latte crudo",4.00,L,62.72,"2023-08-17 09:14:14",Wittie,Mille,"Preferisco non specificare",2006-12-04
+744,Nani,Benoi,"Derivato Animale","Latte crudo",1.00,L,15.68,"2023-01-14 14:50:59",Simonne,Brosi,F,1964-10-21
+74,Nani,Benoi,"Derivato Animale","Yogurt greco",3.67,Kg,10.42,"2025-05-26 11:49:03",Rheta,Lydiard,F,1979-08-10
+107,Nani,Benoi,"Derivato Animale","Yogurt greco",1.31,Kg,3.72,"2024-11-08 15:16:56",Damiano,Sharratt,NULL,NULL
+130,Nani,Benoi,"Derivato Animale","Yogurt greco",0.78,Kg,2.22,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+316,Nani,Benoi,"Derivato Animale","Yogurt greco",2.00,L,5.68,"2026-04-04 13:02:33",Celestine,Capron,Altro,1987-12-31
+474,Nani,Benoi,"Derivato Animale","Yogurt greco",3.67,Kg,10.42,"2025-05-26 09:49:03",Rheta,Lydiard,F,1979-08-10
+507,Nani,Benoi,"Derivato Animale","Yogurt greco",1.31,Kg,3.72,"2024-11-08 14:16:56",Damiano,Sharratt,NULL,NULL
+530,Nani,Benoi,"Derivato Animale","Yogurt greco",0.78,Kg,2.22,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+774,Nani,Benoi,"Derivato Animale","Yogurt greco",3.67,Kg,10.42,"2025-05-26 11:49:03",Rheta,Lydiard,F,1979-08-10
+807,Nani,Benoi,"Derivato Animale","Yogurt greco",1.31,Kg,3.72,"2024-11-08 11:16:56",Damiano,Sharratt,NULL,NULL
+830,Nani,Benoi,"Derivato Animale","Yogurt greco",0.78,Kg,2.22,"2023-12-31 10:00:31",Tamar,Colthard,"Preferisco non specificare",NULL
+38,Nani,Benoi,"Derivato Animale","Ricotta con cacao",2.52,Kg,45.36,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+85,Nani,Benoi,"Derivato Animale","Ricotta con cacao",3.92,Kg,70.56,"2023-11-05 17:50:24",Zulema,Dabrowski,F,1959-01-14
+117,Nani,Benoi,"Derivato Animale","Ricotta con cacao",2.36,Kg,42.48,"2025-07-27 16:35:22",Bernard,Beastall,NULL,1989-06-23
+163,Nani,Benoi,"Derivato Animale","Ricotta con cacao",0.84,Kg,15.12,"2023-04-06 18:57:31",Delia,Hirjak,Altro,1995-09-21
+438,Nani,Benoi,"Derivato Animale","Ricotta con cacao",2.52,Kg,45.36,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+485,Nani,Benoi,"Derivato Animale","Ricotta con cacao",3.92,Kg,70.56,"2023-11-05 17:50:24",Zulema,Dabrowski,F,1959-01-14
+517,Nani,Benoi,"Derivato Animale","Ricotta con cacao",2.36,Kg,42.48,"2025-07-27 09:35:22",Bernard,Beastall,NULL,1989-06-23
+563,Nani,Benoi,"Derivato Animale","Ricotta con cacao",0.84,Kg,15.12,"2023-04-06 19:57:31",Delia,Hirjak,Altro,1995-09-21
+738,Nani,Benoi,"Derivato Animale","Ricotta con cacao",2.52,Kg,45.36,"2024-07-27 08:16:22",Andriette,Cardero,NULL,1964-08-10
+785,Nani,Benoi,"Derivato Animale","Ricotta con cacao",3.92,Kg,70.56,"2023-11-05 17:50:24",Zulema,Dabrowski,F,1959-01-14
+817,Nani,Benoi,"Derivato Animale","Ricotta con cacao",2.36,Kg,42.48,"2025-07-27 11:35:22",Bernard,Beastall,NULL,1989-06-23
+863,Nani,Benoi,"Derivato Animale","Ricotta con cacao",0.84,Kg,15.12,"2023-04-06 11:57:31",Delia,Hirjak,Altro,1995-09-21
+1016,Nani,Benoi,"Derivato Animale","Ricotta con cacao",6.05,Kg,23.47,"2024-12-27 16:36:48",Griffie,Sallings,Altro,1947-01-11
+1041,Nani,Benoi,"Derivato Animale","Ricotta con cacao",8.38,Kg,18.33,"2024-02-12 14:03:01",Adolph,Bagg,M,1967-12-17
+289,Nani,Benoi,"Derivato Animale","Formaggio agli agrumi",4.00,Kg,88.00,"2025-05-25 16:53:58",Allx,Aingel,M,1956-10-29
+689,Nani,Benoi,"Derivato Animale","Formaggio agli agrumi",4.00,Kg,88.00,"2025-05-25 16:53:58",Allx,Aingel,M,1956-10-29
+989,Nani,Benoi,"Derivato Animale","Formaggio agli agrumi",4.00,Kg,88.00,"2025-05-25 10:53:58",Allx,Aingel,M,1956-10-29
+121,Nani,Benoi,"Derivato Animale","Formaggio alle olive",4.00,Kg,96.00,"2024-06-12 18:32:52",Ursula,Askam,F,1950-06-12
+202,Nani,Benoi,"Derivato Animale","Formaggio alle olive",1.78,Kg,42.72,"2025-02-25 18:51:20",Collin,Spenley,M,1998-06-21
+521,Nani,Benoi,"Derivato Animale","Formaggio alle olive",4.00,Kg,96.00,"2024-06-12 14:32:52",Ursula,Askam,F,1950-06-12
+602,Nani,Benoi,"Derivato Animale","Formaggio alle olive",1.78,Kg,42.72,"2025-02-25 14:51:20",Collin,Spenley,M,1998-06-21
+821,Nani,Benoi,"Derivato Animale","Formaggio alle olive",4.00,Kg,96.00,"2024-06-12 12:32:52",Ursula,Askam,F,1950-06-12
+902,Nani,Benoi,"Derivato Animale","Formaggio alle olive",1.78,Kg,42.72,"2025-02-25 19:51:20",Collin,Spenley,M,1998-06-21
+1010,Nani,Benoi,"Derivato Animale","Carne macinata",131.93,Kg,1056.66,"2025-10-31 11:35:22",Budd,Wiggall,M,2005-11-25
+1027,Nani,Benoi,"Derivato Animale","Carne macinata",134.95,Kg,420.49,"2024-07-14 08:16:09",Leigh,Thoresby,"Preferisco non specificare",2006-03-13
+322,Nani,Benoi,"Derivato Animale","Hamburger con erbe aromatiche",8.00,Pezzi,160.00,"2024-08-15 10:46:24",Fee,Tabary,F,NULL
+1088,Nani,Benoi,"Derivato Animale","Hamburger con erbe aromatiche",2.00,Pezzi,6.43,"2025-02-03 14:55:24",Prinz,Petracek,Altro,1950-03-25
+1006,Nani,Benoi,"Derivato Animale","Crema di formaggio al peperoncino",1.64,Kg,15.87,"2025-12-08 11:14:40",Shirleen,Mozzini,F,1996-09-14
+1035,Nani,Benoi,"Derivato Animale","Crema di formaggio al peperoncino",2.70,Kg,15.23,"2025-04-01 16:12:25",Shelagh,Saffin,M,1955-07-28
+307,Nani,Benoi,"Derivato Animale","Gelato al miele",4.03,L,100.75,"2024-07-14 15:08:07",Elena,Aubry,F,1944-07-27
+1063,Nani,Benoi,"Derivato Animale","Gelato al miele",1.86,L,23.98,"2026-04-09 13:01:59",Juliana,Paty,NULL,1952-03-09
+367,Nani,Benoi,Agricolo,"Pane alle erbe aromatiche",7.00,Pezzi,35.00,"2023-02-17 09:42:10",Karil,Yushankin,F,NULL
+1185,Nani,Benoi,Agricolo,"Dolci da forno",4.00,Pezzi,26.31,"2023-11-15 15:24:41",Prinz,Petracek,Altro,1950-03-25
+2,Nani,Benoi,Agricolo,"Olio con erbe aromatiche",4.21,L,75.78,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+402,Nani,Benoi,Agricolo,"Olio con erbe aromatiche",4.21,L,75.78,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+702,Nani,Benoi,Agricolo,"Olio con erbe aromatiche",4.21,L,75.78,"2024-09-30 16:36:32",Ursula,Askam,F,1950-06-12
+1125,Nani,Benoi,Agricolo,"Olio con erbe aromatiche",2.77,L,56.34,"2023-09-11 14:30:41",Mathew,Gravenell,NULL,2004-02-06
+101,Nani,Benoi,Agricolo,"Salsa vegetale",4.64,L,56.65,"2023-07-12 09:31:16",Axel,Jozsika,M,1978-06-24
+206,Nani,Benoi,Agricolo,"Salsa vegetale",2.16,L,26.37,"2023-01-24 11:26:06",Collin,Spenley,M,1998-06-21
+309,Nani,Benoi,Agricolo,"Salsa vegetale",3.48,L,42.49,"2024-07-14 15:08:07",Elena,Aubry,F,1944-07-27
+501,Nani,Benoi,Agricolo,"Salsa vegetale",4.64,L,56.65,"2023-07-12 09:31:16",Axel,Jozsika,M,1978-06-24
+606,Nani,Benoi,Agricolo,"Salsa vegetale",2.16,L,26.37,"2023-01-24 11:26:06",Collin,Spenley,M,1998-06-21
+801,Nani,Benoi,Agricolo,"Salsa vegetale",4.64,L,56.65,"2023-07-12 09:31:16",Axel,Jozsika,M,1978-06-24
+906,Nani,Benoi,Agricolo,"Salsa vegetale",2.16,L,26.37,"2023-01-24 12:26:06",Collin,Spenley,M,1998-06-21
+375,Nani,Benoi,Agricolo,"Purea di frutta",4.48,L,43.32,"2024-09-12 13:11:56",Celestine,Capron,Altro,1987-12-31
+391,Nani,Benoi,Agricolo,"Purea di frutta",4.00,L,38.68,"2025-02-26 17:08:13",Cinderella,Caffin,"Preferisco non specificare",1982-01-06
+1008,Nani,Benoi,Agricolo,"Purea di frutta",3.43,L,49.42,"2024-04-06 11:51:53",Issy,Cobbe,F,2007-10-09
+211,Nani,Benoi,Agricolo,"Succo concentrato",2.43,L,41.36,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+383,Nani,Benoi,Agricolo,"Succo concentrato",3.27,L,55.66,"2024-02-25 19:37:54",Kaine,Byk,Altro,1995-12-27
+611,Nani,Benoi,Agricolo,"Succo concentrato",2.43,L,41.36,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+911,Nani,Benoi,Agricolo,"Succo concentrato",2.43,L,41.36,"2026-03-06 12:22:47",Hogan,Roscrigg,M,1961-09-09
+1131,Nani,Benoi,Agricolo,"Succo concentrato",4.39,L,113.20,"2025-04-29 10:32:03",Cynde,"de Clercq",NULL,1998-11-23
